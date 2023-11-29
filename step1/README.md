@@ -1,4 +1,7 @@
 # Running LLama 2 locally with LangChain
+
+![Image of LLM code run locally](../images/step-1-main.png)
+
 This tutorial is dedicated to guiding you through the process of setting up LLama 2 for local execution, integrated with LangChain — a versatile framework designed for building applications powered by language models. We'll explore the steps and considerations involved in creating a robust local development environment for your language model applications
 
 For enthusiasts looking to dive deeper into the world of LLMs, or for those who desire a more hands-on and unrestricted experimentation environment, setting up LLama 2 to run locally with LangChain presents a rewarding pathway. This approach not only offers greater flexibility but also allows for more creative freedom in your development process

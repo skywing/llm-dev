@@ -1,6 +1,6 @@
 # Learning Large Language Model (LLM) frameworks and API that run locally
 
-![Engineer Learning LLMs](images/main.png)
+![Engineer Learning LLMs](images/article-toc.png)
 
 
 The primary objective of this repo is to explore setting up Llama 2 to run locally and LLM development frameworks and libraries to provide a foundational runtime environment that can run on on Laptop for further more advance development.

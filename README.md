@@ -11,13 +11,15 @@ This repository is structured as a series of progressive learning steps and tuto
 
 ### [Step 1: Running LLama 2 locally with LangChain](step1/README.md)
 - **Overview**: Get Meta Llama 2, quantize it, and setup to run LLM type of hello world with LangChain.
+- **Code Repo**: [README.md](step1/README.md)
 - **Resources**:
   - [Meta LLama 2](https://ai.meta.com/llama/)
   - [Quantize Llama models with GGML and llama.cpp](https://towardsdatascience.com/quantize-llama-models-with-ggml-and-llama-cpp-3612dfbcc172)
   - [LangChain](https://python.langchain.com/docs/get_started/introduction)
 
-### Step 2: Simple Web Chat Interface with Gradio and LangChain
+### [Step 2: Simple Web Chat Interface with Gradio and LangChain](step2/README.md)
 - **Overview**: Building simple web LLM chat interface interact with LLM running locally.
+- **Code Repo**: [README.md](step2/README.md)
 - **Resources**:
   - [gradio - Interface is Gradio's main high-level class, and allows you to create a web-based GUI / demo around a machine learning model (or any Python function) in a few lines of code.](https://www.gradio.app/docs/interface)
 

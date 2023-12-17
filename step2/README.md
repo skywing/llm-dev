@@ -1,12 +1,13 @@
 # Chat Interface with Gradio and LangChain
 
-![Web Chat Interfact](../images/gradio-simple-chat.png)
+![Web Chat Interface](../images/gradio-simple-chat.png)
 
 A simple conversation chat with LLama 2 LLM and Langchain, and interact with it uisng Python code is built on [step-1](../step1/README.md). In this tutorial, we build a web interface to interace with the LLM with Gradio.
 
 - [Example 1: Simple Chat Interface](#example1)
 - [Example 2: Simplify Chat History with Conversation Memory](#example2)
 - [Example 3: Additional Gradio UI Elements to Configure LLM Model](#example3)
+- [Example 4: Streaming chat message with OpenAI and Gradio UI](#example4)
 
 ###  What is Gradio?
 Official explanation from Gradio. Gradio is one of the best ways to share your machine learning model, API, or data science workflow with others is to create an interactive app that allows your users or colleagues to try out the demo in their browsers. Gradio allows you to build demos and share them, all in Python. And usually in just a few lines of code! So let’s get started.
@@ -151,7 +152,7 @@ def predict(message, history):
 
 You can build complex UI in Gradio easily as the framework come with many libraries to allow you control its layout and many pre-built components are readily to be used such as the chat interface. 
 
-![Web Chat Interfact](../images/gradio-ui-elements.png)
+![Gradio UI elements](../images/gradio-ui-elements.png)
 
 The following example demonstrate how to use various out of the box components to get LLM model configuration values from user and update the it accordingly as shown in above demo.
 
@@ -190,3 +191,10 @@ update_btn.click(
     outputs=None
 )
 ```
+
+## <a name="example4">Example 4:</a> [ Streaming chat message with OpenAI and Gradio UI](Gradio-Chat-Interface-Streaming.ipynb)
+
+The following is the example of using OpenAI API to stream the chat message directly to the Gradio chat interface.
+
+![OpenAI Streaming with Gradio Interface](../images/gradio-openai-streaming-chat.gif)
+

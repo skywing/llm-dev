@@ -147,5 +147,46 @@ def predict(message, history):
     return response_text
 ```
 
-## <a name="example3">Example 3:</a> [Additional Gradio UI Elements to Configure LLM Model](Gradio-Chat-Interface-Memory.ipynb)
+## <a name="example3">Example 3:</a> [Additional Gradio UI Elements to Configure LLM Model](Gradio-Chat-UI-Elements.ipynb)
 
+You can build complex UI in Gradio easily as the framework come with many libraries to allow you control its layout and many pre-built components are readily to be used such as the chat interface. 
+
+![Web Chat Interfact](../images/gradio-ui-elements.png)
+
+The following example demonstrate how to use various out of the box components to get LLM model configuration values from user and update the it accordingly as shown in above demo.
+
+```python
+# use according to and group all teh LLM model configuration inputs
+with gr.Accordion("LLM Model Configuration"):
+    with gr.Group():
+        with gr.Row():
+            with gr.Column():
+                n_gpu_layers = gr.Number(value=2, label="GPU Layers", minimum=1, maximum=4)
+            with gr.Column():
+                n_batch = gr.Number(label="Batch", minimum=256, maximum=2048, value=256, step=256)
+            with gr.Column():
+                n_ctx = gr.Number(label="Context", minimum=512, maximum=4096, value=2048, step=512)
+        slider = gr.Slider(0, 1, step=0.05, label="Temperature", value=0.75)
+        with gr.Row():
+            is_verbose = gr.Checkbox(label="Verbose", value=True, info="verbose output")
+    update_btn = gr.Button(value="Update")
+
+chatui = gr.ChatInterface(
+    predict,
+    retry_btn=None,
+    undo_btn=None,
+    clear_btn=None,
+    submit_btn="Send")
+
+update_btn.click(
+    fn=reconfigure_llm_model,
+    inputs=[
+        slider,
+        n_gpu_layers,
+        n_batch,
+        n_ctx,
+        is_verbose
+    ],
+    outputs=None
+)
+```

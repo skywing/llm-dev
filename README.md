@@ -24,11 +24,10 @@ This repository is structured as a series of progressive learning steps and tuto
   - [gradio - Interface is Gradio's main high-level class, and allows you to create a web-based GUI / demo around a machine learning model (or any Python function) in a few lines of code.](https://www.gradio.app/docs/interface)
 
 
-### Step 3: LLama / Gradio / RAG
+### [Step 3: LLama / Gradio / RAG](step3/README.md)
 - **Overview**: Building simple web LLM chat interface interact with LLM and RAG (Retrieval Augmented Generation) running locally. RAG finds the most relevant content or document you specified, and use those extra context for LLM to answer the initial query.
+- **Code Repo**: [README.md](step3/README.md)
 - **Resources**:
   - [What is Retrieval-Augmented Generation](https://colabdoge.medium.com/what-is-rag-retrieval-augmented-generation-b0afc5dd5e79#:~:text=Retrieval%2Daugmented%20generation%20is%20a,and%20relevance%20of%20generated%20text.)
   - [What we need for Retreival in RAG](https://medium.com/@fvanlitsenburg/what-we-need-for-retrieval-in-rag-retrieval-augmented-generation-506f61f3ca6c)
   - [Control Your Model's Knowledge and Hallucinations](https://medium.com/machine-learning-intuition/retrieval-augmented-generation-rag-control-your-models-knowledge-and-hallucinations-ea3c6345a659)
-
-

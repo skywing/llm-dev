@@ -1,7 +1,5 @@
 # RAG / LLama 2 / Gradio
 
-![RAG with LLama and Gradio](../images/step-3-main.png)
-
 Building simple web LLM chat interface interact with LLM and RAG (Retrieval Augmented Generation) running locally. RAG finds the most relevant content or document you specified, and use those extra context for LLM to answer the initial query. Simple RAG itself is easy to understand and to do, but it can become complicated or complex when you going for an enterprise deployment. This step only focus on running simpel RAG and will share more about complex RAG when ready in the future.
 
 There are more advance ways to do RAG such as sentence window retrieval and hierachical with auto merging retrieval methods that this example won't cover.

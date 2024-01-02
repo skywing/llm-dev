@@ -180,7 +180,7 @@ Search result with MMR as its search type.
 
 ## <a name="example4">Example 4:</a> [RAG Interactive UI with Gradio](./rag-chroma-gradio.ipynb)
 
-![RAG with Gradio](../images/step-3-example4-2.png)
+![RAG with Gradio](../images/step-3-example4-1.png)
 
 This is a simple example of using Gradio to put a web user interface on top of the simple RAG build in previous example.
 

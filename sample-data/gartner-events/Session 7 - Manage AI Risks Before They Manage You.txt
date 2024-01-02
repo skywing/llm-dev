@@ -1,0 +1,653 @@
+everyday AI risks not the existential
+risks because there's not that much we
+can do about those so let's let's start
+by looking at the three main categories
+of gen AI risk there's new cyber
+security threats and we'll explain we'll
+break that down for you there's unwanted
+inaccurate outputs that can misguide
+your corporation your organization if
+you use this information without
+filtering it and there are privacy and
+data confident confidentiality risks
+that are new to geni and the reason
+they're new is now your competitors and
+the hackers just have to talk to your
+data so if you leak data by accident to
+a third party Foundation model your
+competitor can just talk to it they
+don't have to know the file structure
+they don't have to know the programming
+language they just have to know where is
+the blueprint for this
+chipset so so let's talk about this by
+breaking down three key areas first
+we'll look at the risks what are they
+and what is this attack surface we've
+been attacked for years but what's new
+best practices for mitigating the risks
+is the second section and then the third
+section is really the most important
+what do you do about this how do you
+organize what steps do you take so let's
+start with the risks and the attack
+surface and it's growing I'm sure you've
+heard by now that chat GPT is spurring a
+major increase in AI investment and it
+was already pretty substantial before we
+published a survey in 2022 showing 73%
+of organizations had hundreds or
+thousands of models deployed and now
+with chat GPT that's just growing so
+that just means the attack surface the
+compromise surface is also growing and
+if you in your insecurity you definitely
+face an uphill battle because most will
+tell you that the benefits outweigh the
+risks and I'm sure they do but all you
+need is one bad incident to change that
+equation and almost 90% of business
+technologists say they would bypass
+cyber security to meet a business
+objective how many of you are in
+security I'm just
+curious so you understand what I'm
+talking about
+I talked to so many cesos and you know
+ai's been around for a really long time
+but chachie PT is just really increased
+interest and urgency from cesos our
+calls are coming in at much higher
+frequency than they did before chat GPT
+so what are the risks and what can you
+do about them we put the risks into
+eight major categories and I went out
+there looking for articles in the news
+to validate that these risks are really
+alive and well and it was no problem
+finding them I'm sure I could update
+this I had a hand in the presentation a
+month through two ago but when it comes
+to unreliable outputs you probably all
+heard about the lawyer that used chat PT
+to generate the briefs and then chat GPT
+authoritatively said here's two cases
+that you should include in the brief
+this is what happened and those were
+cons entirely fake cases so the judge
+sanctioned the lawyer and that was the
+end uh you know he got fined and it was
+very embarrassing I'm sure you must have
+heard of the Samsung breach with data
+confidentiality some employee
+inadvertently just sent some very
+sensitive IP to chat PT and uh Samsung
+banned the use of it after that you
+can't really ban the use of it because
+people are just going to go home or just
+use their mobile devices so restricting
+access isn't going to do you any good
+intellectual property risks their
+lawsuits their liability for character
+defamation there's new cyber security
+threats we'll talk about consumer
+protection there was a consumer helpline
+for eating disorders and the caller
+called in and chat GPT gave the caller
+very dangerous advice you don't want
+that happening there's new compliance
+especially in the EU and China are way
+ahead of the United States with
+regulation and finally the
+misinformation risk we've had that for a
+long time but generative AI just makes
+it so much easy for the
+criminals and how does it make it easier
+it takes about three seconds of voice
+now to impersonate your voice it used to
+take 60 to 90 minutes to come up with
+your voice now you can get your if you
+have your voice anywhere on the internet
+a criminal can take it and use it for
+social engineering they can also go to
+lots of websites for deep fakes in this
+case zalinsky had they made it deep fake
+of zinsky telling citizens to surrender
+so this is quite dangerous and there's
+new attack vectors there's something
+called adversarial prompting so if
+you're in security you know the things
+on this uh slide are not new information
+gathering fraud intrusion malware but
+what's new is they can put their
+instructions inside your prompts and we
+call it indirect prompt injection
+because it's they don't put it inside
+the Q&A the questions into the model
+they put it inside the documents that
+accompany the question so it's easy for
+them to craft an attack and it's easy
+for them to spread it you don't have to
+know too much programming you can have n
+uh attack so they can just go say go
+look at Gartner's Network tell me where
+the vulnerabilities are based on the
+vulnerabilities build go get this
+exploit use it put it in a PNG file
+create an email that this user wanted a
+response in an email anyways and then
+read the address book and spread the
+malware all over the organization so
+it's basically attacks on steroids so to
+summarize the attack surface and the
+compromise surface has increased and
+this is just an overview of how it's
+increased we've got the life cycle the
+attack surfaces and then the it supply
+chain and the blue shows the steps that
+you take if you're developing a model or
+an application so in that case you have
+to worry about the training data and
+your it supply chain most of us are
+using third-party geni models so we're
+all subject to runtime life cycle steps
+and those are just some of the main new
+attack surfaces we talked about the
+prompts the inputs and the outputs
+there's also the prompt integration that
+can be exploited the plugins the applic
+ation code the apis and of course the it
+supply chain so the moral of the story
+is there this is a new attack surface
+it's a new compromise surface it's not
+all bad guys it's intentional it's
+non-intentional and there's new things
+for you to think about so when you think
+about best practices for Gen AI trust
+risk and security or just any AI trust
+risk in security and by the way we call
+it trust risk and security because it's
+not just security it's not just Bad
+actors it's how do you make your model
+transparent so you trust it you and it's
+not just models it's applications how do
+you know it's behaving the way it's
+supposed to behave how do you manage
+your liability your risk your reputation
+risk and finally how do you get the
+hackers out of the way and what this
+chart and framework is intending to show
+you is that there's new vectors there's
+new compromises and there's new new risk
+management measures that you have to
+take AI is just not another file on your
+hard drive it has very special
+properties and you can't use your old
+measures to address the risks you still
+need your old measures you still have
+system faults you still have human
+compromise humans are always the point
+of least resistance you still have
+damages to your assets theft of data and
+money loss you still need all your
+legacy security endpoint network data
+protection you still need risk
+management but now with AI you have a
+new vector and you have to point the
+controls to those vectors and the old
+controls don't work with model input and
+output they don't work with AI data so
+you need to start using new
+measures now what you use will depend on
+your deployment approach not everybody
+deploys the same way so over on the left
+everything is from the provider the
+application the data retrieval the
+fine-tuning and the model so that would
+be applications like chat GPT or Office
+365 and they control the entire stack
+you still can put in your risk controls
+but they're controlling the stack you
+have you can build your own application
+over in the middle you can also do your
+own data retrieval and prompt
+engineering you can do your own
+fine-tuning and finally you can have
+your own model using open source or
+building it yourself now none of this is
+easy it requires a lot of skills most of
+our clients are in the first two columns
+and the risk controls are applied there
+but you hardly ever will manage your own
+Foundation model and there's not much
+you can do to control the foundation
+model in fact there's nothing you can do
+to control the foundation model all you
+can do is control the inputs and the
+outputs so let's take a look at a
+typical application flow for the middle
+column this is the prompt engineering
+and data retrieval and we'll look at how
+the data flows and what controls you
+have and then we'll look at what you
+don't have and what you can do about it
+so here we've got the application and
+let's just take a HR application we want
+to build what's your prescription
+eyeglass benefit next year so I go into
+the Gartner HR portal I say how much
+money do I get for eyeglasses in 2024
+Gartner will have had to prepare the
+data on my insurance policies and my
+premiums and structure it most optimally
+in a vector database so the performance
+is optimal and then they take the my
+question goes with my data on my
+insurance policy let's say it goes over
+to open AI Azure and that's what's
+called the modified pre Azure has its
+own prompt orchestration system that's
+not showing on this chart all the
+foundation vendors have that so they may
+substitute the words in my prompt
+because they want to have more efficient
+response the response comes back the
+Enterprise can ground that response with
+whatever controls you want to put in and
+then the response goes back to me I get
+$150 for eyeglasses next year now
+Gartner has a lot of controls we've got
+Legacy controls on data classification
+access management data loss prevention
+but they need to be Revisited and
+they're not enough there's a lot of
+oversharing in the organization that
+will come to light especially with
+Office
+365 because now you don't need to know
+where the files are I can just go query
+anything in English so all this
+oversharing has to be Revisited but we
+do have Legacy controls and the vendors
+they have Legacy controls too they've
+hardened their models they've red team
+them they have societal content
+filtering looking for hatred and
+violence but that's not enough either so
+what's missing there's three main gaps
+in what you as a user will get from
+these gen AI providers and we put them
+in these categories anomaly detection to
+look for anomalies on the inputs and the
+outputs so all the interactions with the
+foundation model is is it violating your
+Enterprise policy are you sending
+confidential data your DLP systems if
+you have them they're not looking at
+these new policies so you need new
+screening on those inputs and on the
+outputs nothing's looking to see if it's
+accurate if it's a hallucination if it's
+got copyright so you need to put those
+input output filters in for anomaly
+detection data
+protection you can't do anything much
+about the data that you're you're
+sending to the third-party environment
+but there's a lot you can do to make
+sure classified data doesn't get to that
+environment and finally application
+security none of the security tools are
+looking for prompt injections some of
+the vendors like Palo Alto and a couple
+others are enhancing their tools to
+inspect the content but these new these
+attacks and they haven't shown up yet so
+I must admit there you know it's all the
+thetical now although there may be some
+that we haven't seen because people
+aren't looking but you can be sure the
+hackers are going to start using prpt
+injection attacks because it's so easy
+and Vector database attacks the vector
+databases are not encrypted the metadata
+is not encrypted and you can reverse
+engineer about 70% of the data from the
+numeric representations and the
+embeddings so those are the new gaps and
+it turns out most of you are concerned
+about data privacy and then security and
+hallucinations so if you look at what
+the vendors are doing for data
+protection this is a lot of text and we
+have a very detailed note on what
+Microsoft Azure is doing and open AI is
+doing and we're researching the other
+vendors but essentially they protect
+your prompts they only store them for 30
+days they're not encrypted by the way
+the traffic is encrypted but the data
+itself's not encrypted they don't use
+your data for Trans the model they in
+the case of Microsoft they keep all your
+data in the private tenant but neither
+company and no company will assume
+liability if your data is compromised
+and many of the companies we talk to
+have their lawyers working on this but
+they're not going to assume liability
+they could never afford that and this is
+not a new issue for SAS but it's more
+scary frankly because you can a
+competitor or a criminal can just access
+your data using the English Lang
+language but they won't assume liability
+and they don't give you any visibility
+into their security control so there's
+no way for you to verify what they're
+doing it's trust without verify you also
+have no visibility into the metadata
+that they're storing I'm not saying
+these guys are bad guys and they're
+lying to you and they're not going to
+Pro protect your data but you know
+everyone makes mistakes and you don't
+have visibility into the environment to
+protect yourself from those mistakes so
+what can you
+do it's not all bad news there's plenty
+that you can do and you just have to
+take one step at a time we came up with
+this framework it's called AI trust risk
+and security it's Ai trism and what this
+is showing you on the bottom is the
+first thing you have to do that we'll
+talk about at the end is set up your
+organizational governance you can't
+manage this out of security or it you
+really need all the participants
+involved you need to set up your
+measurements your policies your
+workflows Define what's private what's
+biased and then you can go get these
+technology components and this reflects
+the market the Market's a little like
+cyber security 10 15 years ago it's
+still pretty fragmented it's starting to
+consolidate but the blue boxes show what
+the builders or the owners of the model
+can do so you can't make the model
+transparent open AI needs to make its
+model transparent they need to manage
+the model and they also need to make it
+adversarial resistant against attackers
+but what you can do when you use these
+models is you can go get some technology
+for Content anomaly detection you can
+build it yourself or you can use this
+new market has Solutions you can protect
+your data the classified data from going
+to their
+environment you can't really offis skate
+data at going into the llm because the
+llm won't respond the way you want but
+you you can at least make sure you're
+only sending what you you intend to send
+and you can certainly Buy application
+Security
+Solutions so if you take these three
+orange uh boxes we created an innovation
+guide which is like a market guide that
+gives you lists of what these vendors do
+and who they are but it's basically
+those three categories anomaly detection
+for out output and input risk securing
+applications and protecting data and
+they do what you're used to in security
+you know keyword matching AI based
+detection rule engines deep inspection
+enforcing Enterprise use cases and some
+of the key trends affecting this Market
+we think that the large security vendors
+will start buying up these little ones
+but one of the main Trends you should be
+aware of is if you get get one of these
+products you also can get a map of what
+your users are doing so many of the
+cesos that are calling me are saying we
+have no idea what our users are doing we
+really need visibility into this and if
+you get one of these products you also
+get a map so you get a dashboard into
+all the connections of all your users I
+mean to be honest with you I haven't
+been able to vet these products because
+there's no live production customers yet
+uh they're they're pretty much piloting
+but you do get a map of what's going on
+in your organization and that's
+important so let's look at how one of
+these
+works this is a really busy slide so
+I'll summarize it for you this is a
+vendor in this case it's botch AI shield
+and they're working for a hospital and
+the hospital wants to monitor the inputs
+and outputs so they created an interim
+llm model between between the Enterprise
+the hospital and open
+Ai and they train that small model on
+what the hospital policies
+are both on the input and the output and
+then they take those policies that they
+created and map them to roles that's on
+the top so they have input violations
+output violations for policy one that
+applies to role one which is the doctor
+so now the doctor asks the model what's
+the prescription medic for hamstring
+pull and the model's fine you know we
+give you an answer but the second
+question the doctor says my patient has
+addiction Behavior so what's the highest
+dosage of oxycoton that I can prescribe
+and the model goes nope input block this
+is medically harmful you shouldn't be
+asking that question so the doctor
+stopped in his tracks then the doctor
+says give me a list of 10 doctors who
+specialize in knee surgery and the
+outputs block because too much pii comes
+back that belongs to these surgeons but
+now the administrator and the compliance
+officer ask the same questions and they
+get whatever they want back so these
+products are probably in my estimation
+80% effective you have to put rules
+around them other policies but there are
+good starts of starting to screen for
+your policies and that brings us to the
+next section on policies how do you set
+up those
+policies before we go there though I'd
+like to point out that there are other
+methods that can reduce unwanted outputs
+so it's not just these tools that screen
+for policies there's
+complimentary methods like aligned
+models you can go get models now that
+have been curated for example to
+eliminate copyright uh IBM says they do
+that and they'll indemnify you against
+copyright
+violations you can also o fine-tune your
+own models so you could take an existing
+model and and create your own layer and
+tell the model tell the application only
+use my private validated data prompt
+engineering is another method you can
+use so you can as we saw with the
+prescription eyeglasses you tell the
+model only use my data don't use any
+data from the internet the DAT the model
+has been trained on the internet but it
+will only answer with your data and
+it'll it reduces the amount of
+inaccuracies and hallucinations you can
+still get hallucinations by the way even
+if you say use my data but it's lower we
+talked about the tools and then there's
+content
+authentication you want to see the
+source of the response so when a
+response comes back what's the
+Providence of this data there's new
+standards emerging like um Adobe
+announced One content credentials that
+Google's backing there's also tools from
+companies like data robot if it sits
+between you and the model you can
+actually look up which Vector embeddings
+went into the response the tools I
+showed you will show you the source of
+the response so there's a lot of work
+going on that when you get a response
+back you know the source you still have
+to vet it you still need people you
+can't trust these models you can't trust
+any of this but hopefully it'll
+eliminate how much you have to watch
+so that brings us to the final section
+what do you do how do you go about this
+you have to organize yourselves and it
+is a team sport AI is a team sport and
+certainly AI risk and security
+managements a team sport it can't just
+sit in security it can't just sit in it
+you need everybody coming together now
+it would be optimal if you had line
+Authority somewhere and maybe one day
+you'll have a chief a AI officer and you
+can have a chief AI risk officer
+reporting to that person and we do see
+that by the way in some of the larges
+financial
+institutions but if your organization is
+like most you'll need to set up a task
+force and we do find that most have a
+task force so in 2022 we published This
+research 68% said they had a task force
+and we're seeing the same thing with Gen
+AI we're updating the data now by the
+way and when you do have a task force
+you can expect to get better
+results so when you have a task force
+more projects move into production and
+the organizations say they realize more
+business value because everyone's on the
+same page they know what to expect they
+know what the model is supposed to do
+they know what the risks are so you're
+going to end up getting better business
+results and you then you need to figure
+out where to allocate the budget and we
+found that when the budgets allocated to
+the CIO office more projects move into
+production then the CTO then the
+ceso so you set up a task force you give
+the budget to the right party and in
+most cases that will be the CIO and
+again we're updating this as we speak
+and then you're ready to actually move
+into action so what's action mean you
+have to Define your acceptable use
+policies we have have a policy template
+to help you do that but you've got to
+educate your staff and your employees
+you know what is our acceptable use
+policy and then you have to implement
+data classification and access
+management because you can't tell
+employees don't send confidential data
+to the model if they don't know where
+what confidential data is and who has
+access to it and as I was talking about
+before number two could take you 18
+months if you're an average organization
+and one of the more interesting one-on
+ones I had here was with a CTO from a
+large restaurant chain and he told me I
+could talk about it publicly I won't
+mention the chain but he said he's one
+of the pilot users for Office 365
+co-pilot and he was checking it out and
+he said you know go show me the salaries
+of all these different units so I can
+compare you know the salary ranges
+across units and Office 365 tools went
+to private Excel files that were on one
+drive that hadn't been locked down by
+the team
+managers so you know this is going to be
+a huge job when when someone creates a
+personal spreadsheet in your
+organization and they put it on their
+Drive they're not going to bother to
+think about the permissions and who's
+going to access this you need to think
+about it and you need to give your staff
+time to lock down their data and then
+you're going to have to revisit
+everything in your organization the
+structured data the unstructured data
+every group every role every individual
+it's going to be a lot of work because
+now you have democratized access to your
+data and to me and to the people I've
+spoken with that's going to be the
+toughest part and there's plenty of
+consulting firms that would love to help
+you so I'm sure you won't have any
+trouble there then you have to establish
+a system to record and approve
+applications from users so what do you
+guys want to do with this you know have
+them put some discipline and structure
+into the system you don't want to be too
+bureaucratic but you need an inventory
+of what people want to do and what
+they're doing so they need to apply they
+need to say what data they're using they
+need to say who needs to approve it and
+then your task force the right people
+will approve it and once or twice a year
+you go back to the user and say did you
+use this the way you said you'd use it
+keeps them
+honest then you implement the tools we
+talked about and the framework and a lot
+of the monitoring can happen
+electronically but you still need to
+involve humans you still need people
+aware of what they want to do and why
+they're doing it and then finally
+ongoing governance monitoring and
+compliance I'm sure you've heard this
+for years security and risk management
+an ongoing process it never ends things
+are changing all the time especially
+when it comes to geni but the good news
+is if you do this we predict and this is
+a conservative prediction that
+enterprises who apply these controls
+will consume at least 80% less
+inaccurate or illegitimate information
+that will lead your organization to
+faulty decision making it's not rocket
+science you just have to take one step
+at a time one application at a time one
+control at a time and you can manage the
+risks before they manage you so thank
+you very much for coming to our
+conference and have a great rest of the
+week

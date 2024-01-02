@@ -1,0 +1,293 @@
+a good one a great one uh so I'm Rita Salam and uh welcome whoops welcome to
+high business impact habits of top leaders who have data analytics and AI
+responsibility uh so one of our most frequent inquiries in the data analytics and AI team that's where I sit in
+Gartner is you know many of our leaders ask how can we become a data Centric
+organization a reasonable question like how many of you aspire to be a data
+Centric organization yeah most of you and I think that's great but I hope that I
+convince you by the end of this 30 minutes that we not only want to be data Centric but we want to be first first
+and foremost value Centric and the reason is that we see that that is a
+habit of top performing leaders let me start with an analysis that we did so so
+we had a hypothesis that companies treating data analytics and AI as strategically
+important to their organization meaning it's aligned with the business would be
+top Financial performers and so to test that hypothesis we analyzed the financial
+performance of the global S&P 1200 companies on six key financial metrics
+for the past nine years from 2014 through to Mid like half of year
+2023 and we compared that performance again Financial evaluation metrics
+against earnings calls and mentions and earnings calls of data analytics and AI
+terms during that same same time period and the theory the sorry hypothesis was that given that companies have very
+limited real estate on earnings calls that mentions on those earnings calls
+would indicate strategic you know that this thing is strategic IC and so what we found is that consistently High
+performing organizations meaning organizations that performed better than
+their Industries on 80% of these Financial valuation metrics across that
+entire 9 and a half year time frame mentioned data and an analytics terms
+particularly AI 50% more than what we would call low performing organizations
+those that performed worse than their industry across 80% of these metrics for 9 and a half years so you know what do
+these leaders do what do the leaders in high performing organizations do that's what we'll talk about
+today so uh data and analytics leaders first and foremost again clearly from
+the analysis view data analytics AI as strategic to the organization's business
+particularly in the world of AI so we we made a prediction to sort of represent that intent by 2026 more than quarter of
+global organizations will have at least one top earning product that is based on
+data analytics and Ai and that's particularly in the world of AI you're likely to have more and more sort of
+analytics or AI incorporated into your product our service but in our analysis
+we've of over 100 data and analytics and AI leaders we found that not all leaders
+are the same right their focus uh some function more as business drivers as you
+can see uh taking in customer focusing on Revenue product they often have a
+seat at the executive table um others play more of an enabler role you know
+focusing primarily on data foundation on operational efficiencies but the most
+impactful of them really do both really do both um you really have to do both so
+here are the top high impact habits of top Tech technology leaders that Focus
+or have as their portfolio data analytics and AI um now you can either begin to develop them yourself you may
+already be doing some of these which is great hopefully you'll get some new ideas to take the Habit to the next
+level now for those of you who are in my session on Monday uh this will not be
+new to you that was sort of the Mantra of the session on Monday that you need to create a business strategy that's
+infused with data and analytics and AI not some separate data strategy that's
+disconnected to the business I mean very clear it's core to the organization's success the value delivered is very
+clear how the value is measured is very clear now what I'll focus on today not
+so much that I didn't really focus on this in on Monday is the value story uh
+skill so you know how do you do this right we talk a lot again about being data Centric but the data Centric
+strategy by itself usually results in you being perceived as an enabler rather
+than a driver as a cost center rather than Central to the business and so we need to build that value Centric data
+native business strategy and again the strategy sort of the answers the question um you know why am I doing this
+what am I doing how is this going to impact the business a lot of times when we talked to many many uh of our clients
+about their data and analytic strategy and we say well what's your strategy they'll give a vendor name it's AWS it's
+Microsoft it's Google or they often list a technology road map or a long list of initiatives we're working on
+self-service we're working on governance we're working on Master data management and all of those things obviously are
+great but how do they impact the business strategy is what we need to know whereas the operating model is how
+do we succeed what are the capabilities that we need what are the te what's the technology what is the delivery model
+what are the skill sets we need to deliver on the initiatives laid out in the strategy but High business impact
+leaders importantly excel at telling a value story around their strategy and
+operating model that make Business Leaders and their peers the heroes in their Value Story they're skilled at
+connecting the initiatives that they're working on we call them value enablers uh to the specific stakeholder
+priorities of the organization meaning how is how is that stakeholder going to be successful at the end of the day you
+know how are they going to measure their own success their organization success how are they going to get paid their
+bonus we need to know that and tie our initiatives to that thing and then T and
+specifically then determine the specific outcomes in terms of impact on process
+activity decisions in the organization lay that out very clearly and then
+measure the return to the organization identify the kpis that actually measure
+those out outcomes uh again we need to be talking about the initiatives we're working on in data and analytics and AI
+in any technology actually this applies to anything in terms that our business peers our Executives our board can
+relate to in terms of how it enables their success now for each of these um
+examples or each of these habits I'll give you an example so the first one is urban urban shopping they do a great job
+at this uh they this is a pseudonym for a retail chain uh in Europe and their
+strategic business objectives are to really optimize revenue from the customer Journey they use marketing
+analytics to do this to achieve that objective and so they had to figure out the business impact along that Journey
+so they mapped out the journey and they identified the impact of analytics at each part of that process and they
+identified kpis to measure the impact on the stakeholders so just if we whirl through this quickly they used analytics
+to segment their customer base they identified a specific Persona and as a budget Shopper uh she she based on
+analytics marketing analytics of historical uh Behavior Uh her her her de
+demographics they present to her personalized promotions by email we all
+get them um and so you know the more personalized the more precise the more accurate the better our data quality is
+potentially that impacts Revenue per transaction an visits the website she completes her order but based on that we
+may serve up to her you know additional things that she may like to buy again based on her demographics her purchasing
+history Etc people who buy similar things again analytics impacting Revenue
+per customer she may receive her order at home we don't map it out here but maybe there are supply chain analytics
+that make sure she gets her package in two days that she paid for um and then you know she may visit the store there
+are additional location analytics we may use uh Beacon data from smartphone locations to to present to her
+promotions while she's in the store to help her um navigate the store to find the things she wants so you know very
+useful Great Value Story that's very clear on how what we're doing in analytics around marketing and sales
+impact the thing that this organization cares about so impact number two high
+performing leaders who focus on data analytics and AI prioritize Talent
+skills and change management we can deliver all the analytics in the world if people aren't
+going to use that to impact how they change their behavior how they do their work how they make decisions you're not
+going to realize value so and these the three things are interrelated again you
+can't get value out of data and analytics unless you Leverage The analytics to change how people do things
+um and so high performing organizations they're typically data and AI literate
+meaning everyone knows how to use the data and the insights available to them
+to intentionally affect how they work and how they make decisions they measure
+the results they're accountable uh they're analytical they have critical thinking they challenge the status quo
+uh they they think about using data on analytics and AI to
+innovate within the organization uh they have communities of practice right where they impart
+knowledge where they train where they deliver data liter where they impart governance policies and practices um
+they're empathetic because they realize that hey change is hard and so how do you bring people along who may be
+resistant but who need to leverage those insights to impact the business and so
+value-driven organizations really do think and act differently with all of these traits um and they're constantly
+planning for new uh capabilities new roles you know prompt engineering obviously is the biggie right now now
+everybody in the business ultimately even if we roll we're rolling out co-pilots to just consumers everybody in
+the business will need to have some additional skills to fully leverage you know generative AI or predictive AI or
+other analytics that we may deliver to them of course developers will need a different level of skill than your CEO
+or your VPS and your you know your Executives um you know and there'll be some roles that may go away I wonder you
+know in the 60s as you all know there was a role called a computer right before we had computers there were
+people who calculated you know long equations to send people to the Moon we saw that in uh you know movies but what
+what role do you think will go away with generative AI or AI I wonder maybe it's business analyst right if everyone has
+an AI chat bot to be able to analyze and understand what's going in the business going on in the business maybe we no
+longer need that but we'll have new other roles that that emerge data coach data translator AI monitor AI ethicist
+of course data ethicist will have other roles that we actually have predicted a neutral impact on jobs at Gartner um but
+there will be some you know roles that we need more than others skills we have to develop and others that we will need
+less over time so you you know High performing leaders keep an eye on that one so we know no roles will be changing
+we know you'll have to keep up to date on skills but the one thing will be constant is the need to deliver Insight
+Insight so we've got a couple case studies here the first one is into it and what I really like about this one is
+that they don't just give users data or reports they don't just throw out that data catalog and say go at it you know
+do what you want have fun even with rules that's really not the best way to get impact what they deliver is insights
+uh you know what should users be deriving from the from the content
+that's being delivered to them how should they use it in their jobs how should they use it to impact their jobs
+so here you know they do quarterly reviews so past present and future they look at their month monthly updates and
+then they do forecasts and they tell their consumers of this content what they should be doing with it the other
+one that I really like is GFS security guangfa security and what they've done I
+think they have what I would consider to be a best-in-class data literacy program uh where they make you know analytics a
+skill for everyone but just they skill people different based on their role um
+the program is designed to develop analytic capabilities that is very role specific um uh but they also use it to
+identify top talent and so it has great attributes so they certainly they have
+this in-house training it's online it's in classroom and importantly it's impli applied learning again teaching people
+how they use the insights to impact their jobs they use competitions they
+use rewards I'm a big fan of that to encourage particip ipation um they focus on analysis again how somebody uses this
+to impact the business so they don't just teach tools they teach real world challenges from the business and they
+measure the results they have certification as a way to make sure that people have the skills that they need uh
+so I really like that one so how do but how do you reinforce change we all know that change management is is the rub
+right that is how you make progress that's how you deliver value and we all know that that's you know a Monumental
+task in most organizations so I I was an expert on a panel I was I was moderating
+an expert panel a few years ago and somebody from the audience asked the panel um you know how long is does it
+take for change to be realized and one of the other panelists was a CEO CEO of a public services
+company and saidwell whenever the last person in the old regime dies he
+literally said that um and you know of course I was thinking that's metaphorical I don't think he's going to be killing anybody but it does indicate
+that you know change takes time it's hard we need to be patient we need to be again empathetic High performing leaders
+here you know provide people again back to sort of the value stories to help them understand you know what's in it
+for them they Inspire them to want to make the change again not easy um you
+know one of the ways to bring people along is through stages to reinforce for
+them sort of the from to because narrative you know again making it easy and possible for them to understand how
+they make that transition reduce their friction um you know be clear that The New Normal yet may be scary but it's
+going to be amazing for you reinforce it show them how to how to make the way and
+here's the big one have and this is not just DNA have The Bravery to shut stuff down when it's time you know the old get
+rid of the old stuff once for all clearly they'll be in some cases stuff that's just too risky you know to shut down if you got regulatory reporting
+that you know we understand that but majority of things you know give it an end date and don't give people the
+choice to remain in the past and you know what it's okay not to bring absolutely everyone along there'll be
+folks that you just can't bring along and that's okay you know you can't please all the people all the time but
+you know through these steps you'll hopefully you'll get people along and again measure them measure them um um so
+high best habit number or high performing habit number three Drive business Innovation
+leveraging emerging Trends use fast teams set audacious
+goals now you've been inundated with Trends this week no doubt um you know
+and by the way and I think we've we've sort of given you the general guidance that playing it save doesn't mean
+ignoring Trends right doing anything even just to learn you you know if it aligns to your business can sometimes be
+better than nothing so high performing data and analytics teams again they drive Innovation um sorry they um you
+know are pretty quick to deliver value and if something isn't working they shut it in terms of a proof of concept they
+they're pretty quick to shut it down you know over the past seven years you know AI has been I would say you know pretty
+I wouldn't say mainstream but many forward-looking companies have started to do proof of Concepts and Implement at least predictive AI but it's not
+uncommon to take six to 8 to n months to do a proof of concept on a Model to try
+to say oh well I have value and then by the end of that you know long effort you find that H it has minimal impact so I
+think some of the practices that we see you saw it in page group I'll talk a little bit about them in a second um 28
+day cycle time for assessing if you should move forward you know doing a quick proof of value um you know again
+having big goals not just oh we're going to improve by 5% but we are goal is to improve by 90% And if we get you know
+halfway there it's it's it's good now here are our top trends for 2023 I am
+not going to go over them Gareth hersel delivered them yesterday if you want to you know listen to that presentation
+it's amazing um you know it it's you can listen to it on replay I think what you can see though is the trends align to
+the six habits and you know many of them are not you wouldn't be surprising to you AI risk you know optim izing value
+data sharing sustainability humans don't forget them platform and ecosystems which we'll talk about in a second um so
+here's the example again I'll go in a little bit more detail about uh page group you know they again had a huge
+really impactful initial uh I would say it's not really everyday AI because it's a core process you know recruiters a key
+thing that they do is write job descriptions but you know they were it's really one of my favorite examples
+because uh you know even though it is everyday AI they had a significant impact you know as as as as just to to
+refresh they're a European job uh recruiter they've got 8,000 uh recruiters they were able to take the
+time it takes to from writing a description from 90 to 5 minutes 20 to 90 minutes to 5 minutes but the real
+story about this again is how they did it so they have a fast cycle Innovation
+lab they call it their data lab where they assess new proof of concept in 28
+days if they're not able to demonstrate value after 28 days they move on now in
+some cases they'll say we'll reassess later like if it's a matter of a you know cost benefit type of problem but 28
+days if they have to make decisions and people aren't in the office or they're on vacation their policy is to just make
+decisions with who whomever is there on that day so very very good process and
+again major goals the big thing for them the AI ready data so they had been
+working on AI for the past seven years and they've been working on their data fabric for the past 4 and a half years
+so that they credit the data fabric with them being able to get to the 5 minutes so they they were able to achieve a
+certain amount of productivity gain from the generative AI piece but because they had to pull data from four different
+systems that had never been integrated before to prepopulate these job descriptions they were really able to
+get to that 5 minutes because of the a High ready data and they're going to be able to scale
+it so uh High performing habit number four um build data analytics and AI
+products not projects now there are three type sort of archetypes if you will for data products there's data as a
+service there's sort of value stream insights um and there are essentially
+information products and services that you might sell external to your Enterprise to create a revenue stream
+again I think many of you will ultimately do that now that doesn't mean you need to turn everything into a
+product but you know identify those product opportunities by really being again cult customer Centric be that
+customer Advocate understand requirements again those C your customer may be internal they may be external if
+you're over to the far right um basically you know promote agile
+delivery practices as you would if you were a product manager creating a product that's going to have a skew
+that's going to have to be updated that you're going to have to enhance over time that you're going to have to maintain uh the idea is you want to
+create reusable data products that you know have a lot of traction across the organization not just one-offs you know
+ideally if you can hire people with product management skills uh that's helpful and again I don't think this
+just applies to data and analytics but we see that high performing data and analytics leaders uh do this
+thing so case study again most companies if I'm being honest aren't taking the
+data they have the unique data they have combining it potentially with other data that's external to create unique data
+sets that they can monetize either by selling the data by itself or putting
+analytics on top of it and creating some sort of analytic service um of course many use obviously data products to
+create value again these reusable data sets but it's the same process um ZF
+group actually does this they I think they offer a best-in-class uh approach to data product creation that you know
+any company can adapt to sort of Kickstart the process so what they've did is to monetize the data that's
+generated by its systems at first identified a business problem right where the data that they have could
+absolutely map to um and then they gathered the data and created these these new products um making sure that
+the business understood how to Market and sell uh these new products and of course they measure the impact and
+adjust and evolve the produ product they enhance it they maintain it over time so
+you may see it looks pretty similar to the infinity loop what they did essentially delivering a product
+measuring the impact adjusting and evolving over time they they measure and
+have kprs you know K kpis ok okrs to really measure the results of the impact
+that this is having so really Best in Class this is actually a case study on gartner.com if you want to learn more
+details about it so high business impact fact number five uh basically uh building a
+composable data Foundation uh ecosystem that that essentially enables fast
+response to Business and Technology changes now this is a representation of
+a data and analytics Cloud ecosystem and what we know is that you know data and
+analytics Cloud ecosystems versus on premises Platforms in the past support
+more integrated workflows from data to analytics to to Ai and machine learning
+to Applications that's sort of the value proposition of having you know a lot of the hyperscalers are really you know
+touting versus you know stacks on premises Stacks in the past you could get like the set of capabilities that
+you need the portfolio of capabilities but the integration was often very light discret products sort of integrated at
+the invoice level often um but what you see now is that you know these sort of
+ecosystems of capabilities prioritize workflow integration prioritize integration with isvs to fill in gaps
+where they they may be light or to to integrate with your existing environment
+and so you know I think what's important here is again AI ready data AI ready
+analytics is a foundation and I think we're at a point where we really can't kick that data can down the road so this
+becomes a very important foundation again look at page group and many of of our clients I think are really there at
+having made that sort of investment even if it's parallel to as you're developing
+these AIU I know many of you will say well I'm not going to just you know develop this all at you know take three
+years to develop my data ready Foundation no you have to deliver value now so you might have to do it sort of
+in parallel to high value use cases again AI ready data this is a really I
+love this slide and we we talk a lot about this in our team where you have traditional data management
+practices and those are amazing but AI requires sort of additional capabilities
+whether it's a labeling and bias mitigation and different types of security and even if you're moving into
+generative AI with Enterprise search different types of Technology like embeddings and Vector databases Etc data
+which is data enrichment knowledge graphs at the same time people building out these models typically focus on
+model accuracy how many models do I deploy in production they need also to get a sense for data and a you know the
+importance of AI ready data um and and so we have to have a much more integrated process um definitely High
+performing leaders put in place processes to scale because it's very different to do something in production
+versus scaling it and maintaining it over time particularly when we're talking about AI you need data Ops and
+devops and AI Ops and mlops particularly you know processes that allow you to
+scale over time and particularly incorporate new technology as it evolves which we'll certainly see with
+generative AI um great example here put in place a framework uh that allows you
+to again model this model and scale operations Fidelity has done a great job here they've managed to increase speed
+to production by you know double the speed you know essentially reduce the time by you know 100% um and they've
+been able to resolve product issues um and and reduce the time it takes by 80%
+by putting in place these kind of processes so last one I'll be really quick governance and unfortunately this
+is probably one of the more important ones right data and analytics leaders uh
+AI leaders treat governance and risk management as an essential value driver
+right there's nothing more important here um you know where you need to articulate foundational investments in
+terms of in Terms that business peers can can understand now usually when we mention governance to the business what
+happens have any idea you probably have seen it eyes glaze
+over they may roll in the back of their heads they may even fall asleep and they
+may just say no you're trying to control me and so we don't want that but there is a way to talk about how governance is
+so critical to most of most every use case that we're delivering and we need to tell that story um and by the way it
+doesn't mean that we have to set up this big upfront governance practice it doesn't mean that we you know catalog
+everything before we can start day one it doesn't mean that we enlist data stewards before we even you know think
+about analytics it has to be a much more agile uh process and the way I view it
+and the way I think we have to sell it is governance is a team sport it is essentially the Enterprise trust
+initiative so I almost don't use governance with business people I say you like to be trusted you want to be trusted externally you want to have an
+excellent reputation then um you need to have governance and and that's how we
+need to sell it's it is the Enterprise trust initiative everyone wants to be trusted so I'm going to just focus on
+this one given we just have a little bit of time so this one happens to be an AI one it's a great example uh again AI
+governance they are this in this case axen is a global leader in Connected Public Services um they've assembled an
+independent AI board board which I think is really interesting the AI ethics board really helps them in the
+development of their AI power devices their development team has access to them their Ombudsman has access to them
+and this board sort of over represents civil liberties uh privacy voices and
+concerns it shares its feedback with axen but also publicly so axen credits
+this board with really um helping them with their AI strategy they feel like
+it's a crucial part of their sort of AI First Development strategy so as a
+reminder we covered you know business bu build a value Centric da data and analytics and a native
+strategy uh prioritize Talent skills change management as core competencies
+again you can't deliver value if you don't have the right skills if people don't know how to use the analytics that
+you're making available to them uh build of course Drive Innovation by leveraging
+emerging Trends one of the aspects of an excellent strategy is that you
+incorporate Trends and drivers in that strategy many many strategy uh documents
+that we review don't have that set set audacious goals think about fast Innovation cycle
+times uh build products not projects build a scalable
+composable agile data analytics and AI ecosystem and Foundation focus on AI
+ready data focus on processes that allow you to scale not just do proof of
+Concepts and then finally treat governance and risk management as a key value driver as it is so I'll just leave
+you with one question um you know given all of this maybe you can think about what type of leader will you be like
+hopefully you will be both a business driver and an enabler to help your organization shift from being data
+Centric to being value Centric so thank thank you for listening I'm really excited about you know you all being
+here with us this week hopefully you have a safe safe trip home and and enjoy the rest of the conference if you're
+going to stay for another session thank [Applause] you

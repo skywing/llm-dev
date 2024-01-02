@@ -1,0 +1,308 @@
+great welcome welcome everybody Welcome to the peak of inflated
+expectations you feel it right you feel it and I don't mean that in a bad way
+right but but uh what happens after the peak of inflated expectations the trough of dis how many
+feel like you're already in it trough of disillusion meant right now what about
+the traa disol traa disillusionment is just where the work starts and I mean
+and and it may be frustrating or may have you know failed experiments or whatever but it's really the time that
+we start working on stuff and if I had to to to summarize what I've seen this year so far is a lot of energy clearly
+about Chachi PT but lots of experimentation and you've all been doing it lots of pilots and
+experimentation but surprisingly little actually movement into scaled production
+and that's what's going to happen next and some of you are already doing it right we're kind of all different places
+so in building these trends that I'm about to show you here the team and I went through and figured okay what are
+the things that going to help you most right so some years the top strategic technology Trends are like way out there
+and kind of you know half of them are things you've never thought of that's not true this year by on purpose because
+what I wanted to do knowing that you're headed into a time of implementation is to give you 10 things that you can do
+that have been trending but are super useful okay all right but we're going to
+start in 1848 sometimes Innovation takes a very
+long time uh and so imagine yourself Southwest of Vienna uh and there's a a
+mountain pass called the suering pass and and in beginning in 1848 they started to build a railway through uh
+through the pass amazing architectural effort engineering effort boring through
+tunnels and mountains and crazy curves and elevations and all that kind of thing took him six years um and I
+imagine this this conversation somewhere towards the end of the sixth year this is beautiful but none of our locomotives
+are powerful enough to actually use it which was true that's probably not what happened what actually happened is they
+ran a competition for new locomotives that could actually handle the grades
+and the turns and that were powerful enough to do it and so they spent six years building for something not
+entirely sure that anybody was going to be able to use it and sometimes what we do is we have to like have that vision
+and stick to it but this next 27 minutes is a message to you as Builders okay you
+may not be building things as complex as this or maybe even more complex but these things don't come from
+nowhere all right so vision is what I want you to be thinking
+about the future's always under construction right so so the future seems like far away or unreachable but
+the materials for the future always exist around us and it's really a question of discovery of some kind of a
+catalyst that will bring those things together so think about some things that
+have happened over time so leading to Total experience which was one of our Trends from a couple years ago so you had a movement up towards that of
+immersive experience and multi experience and finally get to Total experience which is engaging employees
+customers at that interface and so on okay so there's a buildup to it similar thing with Gen so you have human
+augmentation so the use of information to help people combined with AI engineering like machine learning an
+Adaptive AI so actually some decision- making into Automation and then generative AI we're going to talk more about gen AI surprise okay but just
+thinking doesn't come I was looking back in our research the first time we wrote about generative AI at Gartner was
+August of 2017 August of 2017 and I know there are
+those of you out there that's saying I've been doing AI for a really long time like this is it's not as new as
+people think it is but we'll talk more about that okay when it comes to Cloud one of the trends this year is industry
+Cloud platforms but it comes from experiences in distributed cloud and Cloud native platforms and things like that so they don't come from nowhere and
+it takes time for them to evolve so what I want you to be thinking here is okay of the stuff I'm about to
+talk to you about what's going to be most important for you to reach the vision the goals that you have all right
+The Three Themes of This Year’s Trends
+everything is trending everywhere all at
+once so you can imagine so analysts that gner are kind of an opinionated Bunch if you haven't experienced that so we put
+out a call to kind of crowdsource trends that we should focus on and we got so I have what 2700 analysts we've probably
+got 3,000 responses from them of trends that we could cover and you see quite a range of things here but given the
+framing that I gave you before which is let's find things that are going to be trending and useful for you we distilled
+it down to 10 10 Trends here and the way that we've organized them here is to
+into three different neighborhoods or or themes so protecting the investment that you've already made so the things that
+you've been invest investing in like machine learning like natural language those things you've actually been doing
+for some time building a corpus of data we also see the rise of the builders there's a ramp up in software
+engineering right now where people are building more things because they they have to and the tools are getting better
+but then of course part of climbing out of the trough of disillusionment is when you start to actually deliver value from
+those things that you've done so think about it in these three neighborhoods here there are 10 Trends on this on this
+slide I have 24 minutes left so hang on uh We've designed the conference to dig
+deeper into every one of them because every one of these Trends could be a half-hour session on its own so don't be frustrated if I'm very very surface on
+this thing thing I'm doing it to introduce them to you and you can go forth and learn from there okay so let's stop with start with the protecting your
+investment rise the builders and then um delivering value okay so starting with
+the first one protecting your investment number one so AI is partner
+Trend No. 1: AI Trust, Risk, Security & Management (AI TRiSM)
+so this picks up directly from the keynote AI is partner and specifically around protection of what you're doing
+in AI because AI creates a very different attack surface and generative AI adds another another uh variant of
+that attack surface in ways that you're experiencing so AI trism or trust risk and Security Management is the first of
+these Trends on purpose to kind of get us thinking about how do we keep our things safe okay now that I put this
+word on here because it would just be wrong not to have it right in the beginning of the presentation if you're
+like me your life has been hijacked by this term since at least December
+maybe even earlier of last year and you experience this I know you go into a meeting it's about something completely
+different and it becomes a discussion about chbt doesn't matter all kind of
+drifts towards this way imagine one of the ways that I seek what we should cover in Gartner is what are people
+searching on gartner.com for what do you think the number one Trend typically is on a gartner.com search what is the most
+search for term somebody guess over here magic quadrant I heard it somebody said it always mag quadrant
+until January of 2023 then this word appears at four
+times the volume and the interesting thing about it is that it's every role that we serve
+like not just the CIO role but CFOs heads of HR risk management supply chain
+the the the demand was across every role at the same level and it hasn't
+dissipated so the pressure for you to deliver based on this interest because what this did is it raised the level of
+all things Ai and has raised the intent to invest and so the pressure is on you
+in the Enterprise to actually make this stuff work okay so that's where this comes from lots of pressure things are
+moving quickly you're doing Pilots one of the things that's probably happened in in your organization is you see
+there's an increased intent to invest this figure comes from a webinar that we did in the first quarter and we said
+because of chat gbt how does that Chang your investment 45% increased okay the
+reality of this here goes back before though 48% of you in 2022 had already
+deployed AI technology and you were already using models right in 2021 100
+or more AI models but in the pilots that you've been doing you're starting to notice what the security and privacy
+issues might be things that are Beyond hallucination right more into things
+like where would I want this to make a decision that had some kind of a physical impact or an impact on a person
+so a principle here might be um I'm not going to let this AI this algorithm make a determination about a loan for an
+underserved Community like that might just be one of your principles because the data that's in the foundation of the
+training models would tend to steer a loan away from that population just because of the bias that's in the data
+itself so the tools and the techniques around AI trism are meant to improve
+transparency but also to wrap control and explainability the control piece just for second here you've already have
+ai governance policies in place and so what I encourage you to say is what do
+we need to extend off of that because of what's materially different from generative AI you don't have to reinvent
+the whole thing I talk with a lot of governments and policy makers it's the same kind of thing figure out what the Delta is and then figure out how to you
+protect that uh because you know bias is a very is a very real thing and a very impactful thing okay so AI trism the
+kind of tooling that you'll find in here are things like m Ops I'm seeing an emerging class in the market called llm
+ops so design time protection but there're also things that protect from model drift or the you know um uh
+weaknesses in the models themselves generative adversarial networks come into play here to interrogate output
+from the prompts whole set of really interesting and emerging texts there okay
+Trend No. 2: Continuous Threat Exposure Management (CTEM)
+two related uh and this is the idea of well how do I protect the investment that I
+have given things are moving so fast and this is beyond ai ai has kind of been the sharp edge of this this stick but
+this is also things like uh geopolitical threats which are you know increase all the time uh other types of of threat
+actors and and so on so we talk about this as continuous threat exposure management so really quickly it's really
+you know it is a mix of tools but it's not it's not just that it's a discussion with your business partners to find out
+what's the business attack surface and what assets are connected to that and what's the priority of protecting those
+things knowing that when you had that discussion three months ago it might be different today and so the way that
+we've kind of mapped this out here is kind of in five steps so you Scope the problem what's the surface of business
+attack the business attack surface what's the discovery the it assets that support that business surface and then
+you uh you do um prioritization so of those things what are the things we absolutely need to make sure so this
+relates to the outcom driven metrics work that some of my team has been working on then you validate is it actually something that could be
+attacked what's the likelihood of that you know do we already have things in place and so on so you're getting s much more strategic View and then you figure
+out how to mobilize against it so in a nutshell this is continuous threat exposure management it's a it's a set of
+disciplines but again it's using the output from tools the other thing in here of course is the use of AI to
+protect the organization as well as to find the patterns that are the threat right so it's kind of coming together protecting the Investments that you've
+made all right uh and when you do this we've discovered that you're three times less likely to suffer from a breach
+because you have a very agile approach to protection all right number three
+Trend No. 3: Sustainable Technology
+protect the future um and this is starts around a sustainability conversation and
+I don't mean um you know the old words of green it here this is another very
+durable Trend and demand signal that we have at Gartner and depending on the organization that you're in it may go to
+the board level just in terms of fiduciary responsibility for protecting the environment it's really really top
+of mind the other thing though here is that this is really an interaction between sort of engineering technology
+that are doing sort of power regulation or power measurement uh Wind Farm regulation those types of things that
+are maybe more iot based or engineering based and so on where your connection to this is is mostly through the data like
+what is the what are the patterns you can find in the data the interesting thing is that you might be able to do
+even more sophisticated things um by taking something you do let's say you you know run a payment system in a bank
+there's actually data in the payment system if you're working at global scale that could be used to help governments
+make better decisions right so it's sort of finding the places in that ecosystem where you're approaching
+sustainability and as a team all right so what we're discovering is that and this is youing us this that you're
+finding that it actually increases digital maturity because you're having to think in a datadriven digital way
+across the assets that you have so you're telling us that a 86% consider that it helps resilience uh and so this
+would be perhaps you know physical operations in different parts of the world being able to predict might might
+happen and what might need to move supply chain has a big role here too um
+and within two years we predict that 75% of cios be responsible for Tech Solutions including having it tied to
+their compensation is anybody in that spot now where actually part of your compensation is tied to making better
+sustainable sustainability Solutions a handful we think it's going to increase and it may be in ways that
+you don't think so can I procurement people that helps them make better vendor choices based on the ESG Promises
+of those vendors like even something like that is something that will make a difference and it is not just es and G
+or it's not just E I should say uh and there's more time than I have to go into this but I'm getting questions about the
+environmental footprint of large language models and the computed the foundation models uh and that uh is is
+not a trivial thing and that's why it's so expensive right it's handing the compute cost down Downstream um but
+there are social things that we don't hear much about like the tag Farms the people that were used to actually do the
+tagging to create the foundation models usually in in the developing world uh and and so there's there's you know the
+the scale that this thing launched at has had some ramifications that we're starting to really think through right
+now and more on that Kristen Moyer has a session on that topic that uh that you you should go to see okay so now we have
+the platform we've been protecting it and solidifying it the word platform is
+important here I think of platform is is a platform is something that makes hard things easier to do like in its simplest
+form that's really what it is and it can include people and functionality and so on and that's really what this section
+is about it's about giving some love to the developers uh and also people that build
+things that aren't developers right that sit across the lines of business and this again not a new story but what
+we're saying is that this because of the democratization of the technology around us let me back up a second one thing
+I've noticed about chat PT is when I go into a board meeting almost every board member has played with it that did not
+happen with blockchain or metaverse those things
+right my mom who's 86 uses it for genealogy research and didn't have to
+think about it at all she's like in bing and just whatever you know but it's is fundamentally changed right so you have
+people that have a desire to interact with information like this and actually build systems that rely on it so that's really what this neighborhood of Trends
+Trend No. 4: Platform Engineering
+is about so number four developer-driven selfservice so this is the use of
+platform engineering to actually expose stuff that should be common right you don't want people Reinventing things all
+the time right this is a common we talk about this you know every year really but the techniques to do this of course
+continue to improve and so on so it's it's about building functionality in standard ways so that you can combine
+what is disperate across the organization and actually combine it into something that's managed as a product and you're working with actual
+product teams on the business side to deliver capabilities they need but there's also you're providing
+development services within this so that people that are line of business developers can use it people that are inside can use it and so on the
+complaints you sometimes hear about this well this takes away my creativity right some of you know that uh I'm a musician
+and I play the piano and thank God when I sit down to the piano it has the same number of keys they're in the same place
+the pedals are where my feet want to go and I don't have to rebuild the piano every time I want to play something right so I it allows me to be
+immediately creative so if you encapsulate security things privacy stuff all the stuff that is really hard
+to do some of us are old enough to remember when we had to control dis iio in our code thank God we don't have to
+do that anymore right it's all taken care of right so this is something that really enhances developer experience
+because it reduces the cognitive load and reduces complexity and makes them more productive we're studying this
+really carefully right now this whole idea of gen for developer productivity some of the numbers you hear there are
+really high like 40 50 60% productivity gains and to be fair there are great
+productivity gains but we're watching to see what's you know what's real the other thing that we're watching and I
+think hung L Hong has a session on this here is the use of to tools that fit into the next
+Trend as being um helpful for legacy modernization okay so to make to enable
+the platform engineering there's a team aspect to this I don't want to forget it's like people that think in terms of
+products and platforms and evolution of these things you know if you're hiring people like out of the tech industry
+they come sometimes with that kind of product knowledge which is really essential to making this stuff work types of value that you can get from it
+is reusability which is always over promised by the way know right but it's the standardization of stuff that
+everybody just needs to use and doesn't need to be made different can be composed in different ways and it's highly
+configurable okay and to do that you need what you've already been pursuing which will move away from project
+management to product management as a as a culture okay I'm at 11 minutes I'm at number
+Trend No. 5: AI-Augmented Development
+five all right uh this is a really interesting spot that I'm just going to touch on just a little bit AI augmented
+development so the whole codex GitHub stuff and there are multiple platforms to get you more productive as in in
+development uh is there fascinating space right and this is where we see those you know the gains in design and
+develop and test for sure you know part of me thinks that this might be you know
+the the end of having to pound semicolons all the time right it's not going to remove the
+coder I think that's a really important thing and some of you I know are thinking is this do I need as many developers to do the work that I have um
+it just shifts the work to other things right if you can make their you know their time to Value faster then they get
+to do more creative architectural things Innovation things and so on so again it's a displacement of that uh and it's but
+it's a great way to retain Talent the best one of the best ways to retain Talent is teach something teach somebody something fast and then make them apply
+it right away like one week bursted learning new language of some kind the thing about these tools is that you can
+actually use them to teach a new language I'm seeing some really interesting examples of conver converting Cobalt into python right now
+you see some like within the Cobalt stack getting from 6 to three but I'm also seeing actual conversion into other
+more Mo modern languages which is fantastic uh but not like the Panacea
+right it doesn't at this point doesn't know enough about code semantics to actually refactor the code it translates
+it but very very quickly you're going to have a sense of semantics the thing I'm really curious about and watching is can
+it understand architectures so it could actually you know create use solution architect
+solution architectures the same way that Ikea uses it to produce chair designs right the thing about the Ikea
+example though is the share designs are often things that a human could never sit in a lot of them have only three
+legs for example because probably most of the photos that were fed into the foundation model the fourth leg was
+obscured and none of them had people sitting in them so no human could sit in these chairs they're they're teeny same
+thing with code same you know same things anyway a few interesting things that are happening there the other thing
+about Genera Ai and and AI within the dev life cycle is that you can use it at multiple stages like in Project planning
+and spotting connections between um requirements uh or even documenting code
+for you generating code yeah test augmentation we talked about scenarios and so and eventually architecture
+scenarios too like what's the best architecture solution to this problem that I have okay
+Trend No. 6: Industry Cloud Platforms
+six tailor the Tailor's work so again this is in in the spirit of creating
+things for people to use so they don't have to reinvent them the rise of industry Cloud platforms and the fact
+that they encapsulate stuff that's really specific to an industry like maybe Hippa stuff or PCI stuff or you
+know regulations as they evolve other regulations or just data models or data Fabrics that are sort of nicely tuned to
+the to the industry that you're working in and so this becomes then a very handy way again of of getting productivity and
+it makes this jump from thinking about recreating the technology all the time to getting to a much more Direct
+business value so shortening that that time frame um the types of value that we
+see our clients gaining from this are ones you see here um Sports faster Innovation because you're not having to
+do the sort of fundamental stuff all the time a reduces redundancy because everybody's using the same Services
+there at scale and so if you are like tackling industry-based Innovation this
+is a spot to watch over the next couple of years one of the things we see happening of course is the production of
+gen capabilities into the industry Cloud platforms to handle the kinds of use
+cases that are emerging for specific Industries so we're watching this you should watch it too all right what we
+see out there 270 icps industry Cloud platforms now about two dozen industry
+groups all right the other thing about the icps of course is it doesn't
+displace your current infrastructure it simply extends it and so there's a you know thinking about where the interface
+is between the ICP um capabilities and your own capabilities and that interface will move over time so just you know be
+aware that it's not meant to replace Okay the third neighborhood
+looking forward delivering value number
+Trend No. 7: Intelligent Applications
+seven optimizing decision-making because what's happening is AI is starting to be built into the applications that you buy
+uh and this has been true for a while so for fin planning and Analysis tools for example have machine learning in them to
+do better forecasting based on business drivers within the Technologies themselves what's going to happen is
+that there will be more of the big Enterprise apps that will come like U Salesforce with Einstein that come will
+come with their own llm the caution I'll throw there right now from this stage is they're all going to want you to use
+their gen workbench platform to do all of your gen that's a very bad idea okay
+because what's going to happen is you know two years from now we're sitting in this room it'll be a multimodal multimodel environment that you're
+integrating across functionalities across open source models and all different types of models and locking
+into you know a a a very Enterprise specific vendor to do that has never
+been a good idea so just a caution there the teams I've got the teams working on sort of figuring out the best of that so
+what about intelligent apps so there's Intelligence being embedded into them and it's really meant to adapt to the
+user to give them a better digital experience what's going to happen in this space though and there was an
+example of it um that we used in the keynote this morning uh which is related to the the finance and planning sort of
+you know tell me what the business drivers of this last year were where you're actually expressing an outcome
+and the system figures out how to prompt create the prompt to generate that output and so it's going to get a bit more hidden in which will be really
+useful if you like have if you have um HCM like if you have actually HCR data
+that you want to understand it would be great to Simply ask ask the system to provide you that output same thing with the financial systems and so on so we're
+seeing this again platforming the prompting to make it easier to do hard
+things all right number eight four minutes and 50 seconds I'm counting I'm going to get you out of here on time I
+Trend No. 8: Democratized Generative AI
+promise what's amazing about this trend is that I didn't put it
+first it took me to Trend 8 to get to this uh and we've talked about some of it already and you're going to hear a
+lot more about it uh just know that that I'm very practical about this just from a research leadership perspective I'm
+really excited about the capabilities of this I use it you know in my own life
+beyond just uh text I use it in music I use it in other art and that kind of thing as a way of generating interesting
+ideas but what's happening with with the space is that of course it's being used
+to generate things in multiple modalities this is where I'm finding as I talked to clients that the real value sits so in the challenge that Mary and
+Don gave you this morning about the gamechanging AI um not as much of that is going to come from text as it's going
+to come from other types of of data blueprints molecules the stuff that sort of core to what you do do we talk about
+Bloomberg a fair amount what they did is they created a symbolic representation of financial language and I have a
+client that's using it to create computable contracts in the insurance business and so think about Beyond just
+sort of if let me just say it this way because I got to go faster if all this is a fancy search then it's not
+interesting if all that these large language models in the apps that sit on top of them are just a fancy search then
+we haven't really move the ball very much there are great uses for that but I want you to think Beyond it okay uh AI
+simply is infused everywhere one of the numbers and I apologize in advance to John Lovelock if I get this wrong
+because I just saw it we project that by 2030 every dollar of a of it spend will
+have an AI component by 2030 every dollar of it
+spend will have an AI component all right the types of things
+of course you're going to gain as value from using gen you see here so productivity is the least of these it's
+really important but there are other things too like improving the actual business itself this is where it gets
+hard because there aren't a lot of great examples yet if you have them share them with each other the
+examples all right constantly balancing this risk and reward again the reason
+many of you probably have hesitated a bit on your Pilots is because you Pilots is because you haven't quite gotten
+comfortable with the risk side of this yet and it could be hallucination it could be bias it could be all of those things that we've talked about leakage
+of Ip places you don't feel you have control so you're kind of taking the foot off the gas a little bit that's
+okay right trough is where the work begins all right I'm going to go a little faster
+Trend No. 9: Augmented Connected Workforce
+here number nine almost done so using this then all of the things we've talked about to
+empower uh Workforce Now the the easiest way to think about this think about all of the stuff that I've talked about and
+imagine that you are a technician on an on a airport tarmac fixing a complicated problem that
+you've never seen before so where do you get knowledge you get Knowledge from schematics you get Knowledge from
+standard operating procedures you get Knowledge from other people that have seen and fixed this problem you get
+Knowledge from the device itself through iot sensors and data coming into that environment imagine that digital
+experience for that employee if you can help them solve a problem they've never seen before using generative AI to query
+the systems and bring stuff back or to use mixed reality to actually bring them
+immersively into that experience and to use it and so on so that's kind of where where I see this going next is in the
+service of people that have that kind of a job right and it is again the realtime
+use of data like you see here knowledge bases end points everywhere you can capture data um and the data piece of
+this to what we're finding is that knowledge graphs work more effectively
+to pull the data back into the prompt so begin experimenting with that there's there's sessions on that here too okay
+it will improve things like service level response times output quality but really importantly what it improves is
+their own experience because the fastest way to lose somebody is to give them a crappy digital experience people will
+quit all right number 10 I may go a minute over I'm sorry machine customers
+Trend No. 10: Machine Customers
+uh and Don and Mark are doing a signing on this their sessions I encourage you to go see it but the the idea here is
+that you will begin to have to serve these machine customers that don't have emotions like they just want the best
+price negotiated and they want reliability in the supply chain but eventually they will have ethics or
+ethos or way they make decisions based on only work with providers that have this level of ES G promise and have
+fulfilled it like those kinds of things so interacting with machines will eventually have some kind of a shaping
+or an ethical component to it and as you're thinking about gamechanging AI think about those places where you can
+use your own machine clients okay so those are the trends those are all 10 of them I know I went through them fast I
+deliberately spent more time on the front of this because they're they're meaty but what I encourage you to do is
+to say you know what do you what do you want to address that applies these Trends to it and think about building
+something that has yet to be used because that's where the power of where you sit is let's get to work thanks
+everyone have a great rest of your show

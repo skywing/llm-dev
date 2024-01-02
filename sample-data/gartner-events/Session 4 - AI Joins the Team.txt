@@ -1,0 +1,289 @@
+prise scene and not as a passive technology anymore but as a decision
+companion AI joins the team good afternoon I'm Eric branu as my
+accent does not indicate I live in Chicago where I cover artificial intelligence techniques and decision
+intelligence for Gartner two quick things first AI does
+not equal generative ai ai is a discipline it's a set of Computer
+Engineering techniques like rule based systems machine learning capabilities knowledge graphs optimization techniques
+that are make to solve business problems generative AI is a practice of AI which
+uses Those computer techniques that I just talked about second AI does not equal robotics
+either Ai and Robotics are coming together because robotics is a use case of AI 98% of the robots in the world are
+using no AI whatsoever and they are still doing a good job AI is no longer a
+prop it's an actor it becomes an integral part of the collaboration
+environment in our organizations the inflection point has been sudden for the massive amount of
+people that have been exposed to chat GPT that acceleration and that
+application was sudden for those that have seen the human tone of voice the
+versatility of the technology they realized what the technology could do
+and for them it was nothing short of magic illustrating the famous ular quote
+every sufficiently advanced technology is indistinguishable from Magic there is another irresistible
+Force pushed by Ai and it's the Advent of the movement from data centricity to
+decision centricity focused on outcomes I should say a shift in a center of
+gravity because data capabilities remain Central and fundamental for AI but AI
+just doesn't deliver insights anymore AI also delivers now decision
+intelligence we are elevating the plane of perspective it allows us to see further than just the Insight of what's
+next what's the next action we should do AI the actor decides to collaborates as
+well augments and becomes a team member it's embedded in a fabric of our
+organization and AI almost now is no longer an innovation it's a permanent
+fixture of our technology landscape and who should get used to that it's propelling the organization in
+what we call the AI natives they are born with AI they are the children of the digital
+natives most of them today are trying trying to create that overnight proposition but it will take some time
+you the large majority of you have already started with AI for Point
+projects you heard in a keynote yesterday the omnipresence of AI from
+everyday AI making everyone accter to gamechanging AI trying to change also
+the nature of our own businesses reaching the investment
+escape velocity speed allows us to detach ourselves from the productivity
+grain gravity as we move forward to push us forward and Propel us further with
+those kind of techniques everyday AI consists essentially of things you're already
+doing today productivity capabilities within boundaries business as usual if
+slightly augmented gamechanging AI is a different
+proposition it's looking at breaking or pushing boundaries doing things we have not done yet this is is where heroes are
+made where differentiation lives and where mostly we are changing those business models we talked about and
+markets are born our aim today is to pave the way and show a new strategy
+around AI initiatives that looks around those boundaries and what kind of applications you can actually start
+implementing to be able to push those forward AI might be changing many things in a workplace but one thing that does
+not change is the way we invest we are already in the AI game you
+all have a cell phone and on that cell phone AI is already integrated whether you want it or not it's already there
+most of us Len are with GPS systems because that's where AI plays a role as well we are all on a journey we are all
+there to go where no one has gone before even in some applications that we believe could be mundane and the good
+news is that we don't have to go to the moon right away we can stay in familiar territory we call it within B boundaries
+many organizations are there today most of what we see here in that category belongs to productivity gains but there
+is a caution here most organization that Focus exclusively on productivity gains
+are running the risk of being passed by by more daring competitors that are pushing those boundaries further and I
+mean the full spectrum of AI techniques by the way not just generative AI but beyond that moving through these
+boundaries is not a sequential proposition and that's why I referred before as a Nite portfolio of
+initiatives with increasingly risky but rewarding initiatives that you can go through
+today I would say that about 80% of our clients are in that segment today that's
+where most of their initiatives reside on pushing productivity AI is already embedded in
+their application and in that case by the way it's better to buy than to make
+as much as possible just take advantage of the functionality that already exist
+within those application and solutions those project have a Time Horizon of about 12 months usually in
+terms of investment you should count in the low 10 of thousands to the low hundred of thousands of dollars and
+again not much more development governance is going to start appearing already at that level but productivity
+gain does not mean that those application can be mundane or cannot be
+in ative or imaginative Tech py of Microsoft
+research is specializing in healthcare and life sciences and he's was a skeptic
+about the technology originally because he understands the underlying techniques really well so he decided to start new
+use cases to help doctors write letters to patients actually he pushed it one
+level further and trying to get that technology to write letter for very
+sensitive case parents of a sick child what he wanted from the technology in
+the prompt he said I want something that's direct factual to inform the
+parents but also taking into consideration the very sensitive situation the parents are in I want
+empathy I want something that be able to reassure the parents as well at the same
+time me you examples of that letters during our meeting I observed some
+troubling signs including low blood pressure irregular hot Rhythm and Donnie hair on
+her back and arms I believe Meg is very ill and we need to work together to help
+her get well factual direct and yet inclusive
+with some empathy building as well together we need to work with Meg to support her to surround her let her down
+in the letter while there is certainly work to be done I am optimistic that
+with the right support and treatment plan Meg can make a full recovery and Achieve Optimal Health hopeful empathic
+again and inclusive the letter was remarkable actually astonishing it shook petly
+skepticism in the technology it shows also that you can bring empathy in Spock like
+doctors most of what we see Happening Here is the fact that with the prompt
+it's also showing a shift what's becoming important in generative in particular is not as much the answer as
+the way you ask the questions and I will come back to that in a moment as we know gen just write letters
+they also write code and actually code generation and translation is becoming
+one of the top use cases worldwide regardless of the industry or regardless
+of the different sections of where the code is implemented now of course many
+implementors also have verification and validation procedures as they've seen nonsensical code also and sometimes
+malicious code sneaking in nonetheless that remains one of the places where
+productivity is really seriously augmented but AI is much more broadly
+applicable in my and I'm almost to say that 35 years of careers losing AI
+techniques I've seen all kind of use cases 10 of thousands in the last 30
+years I've seen things in fraud detection churn reduction maintenance
+predictive maintenance I've seen things around product equality inspections many many many use cases using all aspect of
+within boundaries AI techniques next come where we question
+those boundaries where we push them a little further and in that case we move from exploration symbiosis and we push
+those boundaries further with an explicit permission to explore come an explicit permission to fail as long as
+we learn from those failures of course there will be no Apollo 11 without an
+Apollo one as we move forward we see 17% of your initiative that should be in that
+segment they're looking at a deadline of about 18 months and they're looking at
+potentially challenging use cases with a growth or smart reduction in mind
+technology should help us abandon some bad habits as well not just augmenting them and flashing us beeping us
+vibrating us all the time on a regular basis we are crossing industry domains and business functions here and we are
+focused on Innovation much more development here AI engineering is
+becoming a key discipline also within that section and in that case you are
+looking at a low 100 of thousands to the low millions of dollars pushing boundaries can bring unexpected results
+and benefits far. a a company we will hear from in a minute has actually done this
+they applied that technology in the game of go and what they have shown is
+something extraordinary go Masters have been playing that game for Millennia and yet the system has been
+able to show them a new way to win the game let's hear it from Adam GLE the CEO
+of far AI The Story begins in 2016 with deep mind's Alpha go becoming the first AI
+system to beat professional go player experts were amazed that alphao had uncovered strategies but had evaded
+thousands of years of human study since then Goa systems have grown even stronger with a modern AI system katago
+able to beat alphago 100,000 games to one a leading go player Lisa doll commented that AI systems are an entity
+that cannot be defeated in 2022 far AI developed an adversarial strategy that
+learned to consistently beat Caso amazing L this strategy is simple enough that it can be executed by a human
+without the aid of a computer one of our team members Kellen pin is even able to
+consistently beat kago after giving the AI system a very substantial handicap to
+our surprise although the attack was only ever designed to exploit catago the
+same strategy is able to beat a wide range of other AI systems including Clos Source systems we had no prior access to
+these results underscore that although machine Learning Systems can often achieve impressive and even sometimes
+superhuman average case performance the techniques used to train them provide no guarantees as to the worst case
+performance of these systems even highly capable AI systems may have Achilles heels that cause them to suddenly fail
+catastrophically and without warning fell catastrophically and without
+warning hey I start those go Masters things they thought were best practices
+for multiple centuries and yet the system was able to solve the puzzle in a new way to the point now actually where
+go Masters learn that new methodology that was also put as an alternative by
+those systems AI has Tau Humanity something which is not nothing but AI
+system again despite their generalization capability do not fail gracefully the improve they improve on
+average or best cases but they have a very hard time to close the gap when it comes to worst cases this highlight the
+importance of human beings and developers checking those systems and
+verifying those systems regularly that's the symbiosis we've been talking about
+pushing boundaries can have other unexpected consequences too in the case
+that Adam was talking about few go Masters stopped playing the game
+altogether the impact of those Technologies on people should never be
+underestimated no matter how cool we we think they are finally to venture into the real of
+magic we're looking at the breaking boundaries category when new form of cooporation emerge where AI could
+acquire some form of agency it is the remaining 3% of that portfolio of
+initiatives I was talking about the time Horizon of those project is about 24
+months radical new plays daring use cases that have potential to alter
+industry create new business functions that's the upper right end quadrant of the opportunity radar that you saw
+yesterday into the keynote creative imaginative redefining actual business
+and operational models now these projects are expensive they are in low
+Millions to the m tens of millions of dollars they need to be vetted carefully
+before venturing into these new territories eneda
+biosciences a biotechnology company whose mission is to transform human
+health by maping and discovering Nature's chemistry has done this they
+have leveraged generative Ai and it's almost weird to say that traditional machine learning techniques to discover
+new drugs let's hear it from Tom Adena natural products are chemical
+compounds that are produced by natural sources like plants and fungi they are the source of over a third of Humanity's
+medicinal portfolio including medicines that address critical Global Health needs including malaria heart disease
+and cancer in spite of their incredible clinical success less than 1% of natural
+products are known to science the remaining 99% is a potential Treasure
+Trove of new medicines ineda is building Technologies to unlock this cache our
+machine learning models analyze interpret and translate data from
+biological samples concurrently giving us information about the underlying
+chemical structures of the natural products their drug likeness and bioavailability in mere moments this
+information could potentially take years to obtain using classical methods our models combine generative AI methods
+which allow us to predict the structure of natural products that have never been seen before by science with classical
+machine learning approaches to estimate the reliability of the structure predictions this power combination
+enables our drug Hunters to make informed prioritization decisions speeding the drug Discovery process and
+helping us to deliver new medications to patients faster our entire pharmacopia relies on
+less than 1% of natural products I don't know about you but I was totally flawed
+when Tom told me about that surprisingly what he said it works because it seems
+that there's a strong parallel between natural language con stres like grammar
+and chemistry vocabulary which allows them to unlock the 99% and significantly
+address and accelerate the drug Discovery process so discovering new drug at that rate is already amazing but
+will they work in humans what about clinical trials well another remarkable thing
+that NVA has done is that they have gathered ancestral medical knowledge or
+ethnobotany to be that it's actually traditional medicine that has been gathered by centuries Traditions to be
+able to understand also what have worked in humans now they're combining that drug Discovery with strong foundations
+for clinical trials how is that for breaking boundaries composite AI is what eneda is
+using here they are you discovering the unknown using machine learning
+techniques hidden correlations in the data and they are using graph and r
+rule-based systems to capture existing known knowledge precious known knowledge
+that knowledge that resides in the head of your best employees that capture is possible those
+techniques are decades old ethnobotany is what my grandmother was
+doing without knowing it she had these jars of leaves in her cupboards and she
+used to mix those leaves to treat all kind of ailments
+she got that from her mother that got it from her mother who got it from her mother and so on and today I'm sitting
+here I'm sitting here I'm wondering what have I retain of that incredible precious
+knowledge that is what my wisdom has been reduced to a preman nepresso herbal
+tea capsule soured by a little of my shame but once you broke boundaries what
+lies Beyond is it possible possible to start redefining the game itself can
+machine become self sustaining investors and decide by themselves how to
+structure powerful portfolios AI as an actor also means
+machine as clients it means the ability to generate synthetic agencies of rational agent
+running businesses on their own it means adaptive system unleashing the learning
+techniques to look at enforcing circumstances and adjust to them using
+adaptive AI it means creating new data to better anticipate Complex events and
+you think I'm dreaming a few are already among us today Capital Logics is doing just that
+they have an investment systems which can learn organize and reconfigure
+itself for best performance it can even change in own learning mechanism by deciding how to
+invest as with every AI model the challenge is to temper those models over
+confidence or teaching AI some humility generative AI is now moving
+into the next phase already it's generating actually and spawning swarms of agents that can act
+by themselves autonomous agents now imagine we have employees digital twins
+that generate different rational agents to perform various functions that we do on a daily basis and those are there to
+engage and respond to our friends our colleagues our managers our business
+partners and as we do that then we thinking well if we can make that happen then what about adding a new personal
+digital twin for home that interacts with our family with our kids with our friends with our Star Trek fan club all
+these different things also well once we've done this who has priority who decides how do you
+orchestrate those what if your colleagues friends and family and everybody else start
+making these agents possible how do we form preferences how do they
+evolve all of those twin agents start acting on our behalf personally and
+professionally on behalf of others humans or machines on behalf of organizations
+their complex interaction will give way to what we call emergent properties now let's not take that for
+senss okay let's not get there but instead our upcoming challenge which is
+already among us today is due to guide and orchestrate those emerging rational agents
+into who knows maybe a new form of intelligence thinking decisioning
+companions who have to teach some AI some Humanity as well at some
+point but let's come back to today the challenge of becoming an AI native again
+within boundaries and pushing boundaries and breaking boundaries and the further you go the bigger the impact but also
+the bigger the risk and of course when you start looking at those systems we might have to mitigate to keep AI Fair
+reliable and sustainable and we know how much those very large language models
+are consuming in terms of energy obviously the portfolio profile will also vary across organizations you
+do not have all the same appetite for risk considering the new rate of change and the learning curve organization
+within their portfolio within boundaries have to make sure that if they stay within boundaries they will compromise
+their chances to compete your existing use cases are
+already an indication they should help you you've learned a lot to that process already the
+portfolio approach hopefully should help you properly forward with mitigating that risk but fast following is no
+longer an option unless you're a greyhound dog walker you need to establish the Rules
+of Engagement you need to rely on imagination and audacity and move Beyond productivity but be aware there's a trap
+between within boundaries and pushing boundaries many organization that are focusing on
+productivity gains are focusing exclusively on Personnel reductions which then limit their
+success in the latter 20% of the portfolio when it become impossible sometimes to reacquire that
+Talent we see that AI is Shifting the value proposition from full-time employee reduction to augmenting the
+value of your existing employees and I've seen that in the nine
+in the last nine month many many time over nothing new here by the way AI
+engineer and gener in particular is just accelerating the
+timeline in our writing code example that new code will still have to be
+embedded into business processes verified validated and who's going to do
+that software engineers and then we're going to have to ask the right questions to those
+systems who is going to do that prompt Engineers have heard of prompt Engineers I bet you have but a year ago at the
+same time not so sure so those new skills are emerging within AI today and we need to
+make sure that we push them forward because beyond the boundaries the risk is at its highest but regardless of the
+level of initiatives again failure should be an option because the risk of
+doing nothing has never been higher people move fast
+my esteem colleague Kevin gabard who worked with juston ma it's a global
+Specialty Company and chemicals and sustainable Technologies has witnessed this firsthand they looked at the
+critical element of innovation thinking let's hear it from Kevin we spoke to Johnson maty a
+sustainable Technologies company about their process for Innovation one executive who facilitates their
+brainstorming sessions noted that he really has to push their very oper ation focused Business Leaders to open up to
+weird even obscure ideas after brainstorming they assess their 10% most futuristic and aspirational ideas were
+three things the alignment to their Enterprise strategy how much competitors are investing or expressing interest and
+whether ideas are even technically feasible they noted three kinds of opportunities first necessary bets which
+have clear implications for the competitive landscape that is everyone else is investing and so there's a clear
+road map next seemingly impossible wins which represent latent value because
+they are presumed to be highly aspirational when in fact they're feasible with available technology these
+Investments might not have attracted attention from competitors and so provide high impact even if they are
+nich finally stretch aspirations are cuttingedge opportunities to reshape the
+business strategy the market or the industry by investing in nent Trends and embracing
+uncertainty so if we're going to achieve the promise of the coming wave of AI
+technology we must challenge ourselves to have really big imaginations and we must be bold it's GLI to say that we
+don't act because we fear failure that's been done we've made failure safe enough
+to take our organizations across the boundaries of what is currently possible we must be prepared to take
+unconventional even daring next steps daring next steps so 10% of the
+most futuristic and inspirational ideas are made of these three things alignment
+to Enterprise strategy pretty obvious although very hard to achieve in many cases interest and investment from
+competitors and that's why it shows also that Niche capabilities sometimes that have worth exploring despite their
+perceived negative return but the doubt on technology feasibility that's the
+Treasure Trove this is where AI can make a big difference because today many
+things we think are impossible are really coming in a real mod of possibility without a tremendous amount
+of investment from a number of initiatives perspective your portfolio includes many
+initiatives within boundaries essentially focus on productivity gain but when you look at the impact it's a
+mirror view of that it's where most of those opportunities come when you start
+breaking boundaries and that's where differentiation needs and breakthroughs are made clearly the lesson here is that
+the challenge with pushing head with a eye would be a lack of imagination not a lack of AI magic breaking
+boundaries might be your safest way to compete like Kevin said ween faing
+pretty safe and there are undeniable risks that are linked to the ey portfolio and the idea is to
+realistically face those risk and start establishing an effective learning culture knowing that the learning curve
+is becoming incompressible we are suggesting that as Talent keeps narrowing you need to name
+an AI lead a lead AI orchestrator someone that will work with all the
+executive within your organization to orchestrate those AI initiatives that person will also start
+looking into exploring innovative business ideas and finally start to
+initiate an AI literacy program AI does not signal the obsolesence of natural
+intelligence it is a possibility and emergence of augmented intelligence that's what AI should stand for augment
+M mented intelligence in other words the opportunity to invent a symbiotic
+relationship I'm confident that you already started you already are on that Journey one way or the other you already
+started those processes inside your organization initiate your own AI portfolio open your AI Labs do not wait
+or you will not be able to catch up learning time is incompressible then expand and balance that AI portfolio do
+not focus exclusive on everyday Ai and within boundaries you might not
+be able to catch up to achieve gamechanging AI be audacious break those boundaries look beyond that it's 3% it's
+expensive but it's 3% and finally orchestrate your AI
+portfolio go beyond prototyping start scanning AI look at the responsible
+manner you should be doing that as well name your a to coordinate the efforts across your organization that person
+could be you we are only at the beginning of this journey as we have finally created a
+sparring partner for our intelligence are we at the dawn of Danny
+hilly wish I want to make a machine that can be proud of
+us thank you
+Gartner Technology Events

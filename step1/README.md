@@ -89,6 +89,7 @@ llm = LlamaCpp(
     n_gpu_layers=2,
     n_batch=512,
     n_ctx=2048,
+    f16_kv=True,
     verbose=True,
 )
 ```

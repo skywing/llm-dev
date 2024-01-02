@@ -1,0 +1,297 @@
+seing darl plumber do this talk we worked on it for a year I know he's disappointed that he couldn't be here
+with you you've got little oh me instead that being said when we were
+titling this talk the year everything changed does that feel like it's
+hyperbole does it feel like we're making an exaggeration I don't know I mean there is a certain kind of part of our
+business model that is to scare the heck out of you guys so that you'll buy more Gartner licenses
+I get that that's fair but as I think about it I think in
+20 25 years when we look back we are going to think that this is the year
+that everything changed I don't think that's an exaggeration and and my part of this story actually starts last year
+I was uh part of the keynote team for Gartner security and risk conference in National Harbor DC where we had a AI
+fighting AI on stage in this live red team blue team scenario that was just
+fabulous the production values were amazing the number one piece of feedback we got from that
+audience it was too futuristic it's too futuristic fast forward to November of
+2022 open AI released chat GPT and I don't know if any of us feel
+like that Future's too future F istic anymore I don't think it feels like science fiction in fact I think for a
+lot of us it might feel like we're this skier we're on this hill and generative
+AI is this slippery slope and and we're concerned are we
+going to unleash this slippery slope on on the village down below who are who are our customers who are our our our
+citizens who are our employees and for us I'm not going to so
+a lot of fear uncertainty and doubt with you here today even though I'm a practitioner in our cyber security
+research practice and I know cesos that's what we exist to do but that's not what I'm here to do today I'm here
+to help us plot a course down that Hill because often the
+softest powder is through the trees right not on the well-worn runs and it
+is through that path perhaps that more difficult path that less Worn Path that we're going to find a route to the
+bottom where everyone prospers our citizens our
+employees and our shareholders now thinking about
+prospering when we develop this talk every year and it takes about a year for
+us to do it we get about 200 submissions for possible top predictions
+so we thought to ourselves maybe we could make our jobs easier maybe we could ask generative AI itself what it
+thinks the prediction should be so we
+did and here are two by 2026 virtual and augmented reality will
+Top 10 Predictions
+be used to create immersive learning and allow more realistic learning
+paths or by 2026 30% of workers will leverage
+digital Charisma filters to achieve previously unattainable advances in their
+careers who thinks it's the first one who thinks generative AI generated
+the first one who thinks the second one is is is a generative
+AI all right that's pretty good that's pretty good I think they're both pretty nice but if I was going to do the
+reveal I feel like the second one's got maybe a little bit more data a little bit more actionability to it perhaps
+that's really what we go for when we're trying to develop these not that every prediction is going to come true not
+that every prediction is Right Gartner predictions are really about understanding Trends and
+velocities not about looking in a crystal ball trying to anticipate what the future
+is so without any further Ado I'm going to throw the top 10 predicts up on the screen so that you all can take pictures
+of it if you like and we're going to roll on with our story here's the first
+five and the second
+five we're going to unfold our story today in three parts part one is about
+how generative AI is going to make us all individually better part two is how it's going to
+help our organizations our businesses and Enterprise overcome their worst
+traits and part three is going to to be about threats and opportunities and responsibilities but really about the
+ability to develop new communities so for our first part
+generative AI making us more powerful personally and professionally we're at an interesting inflection point right
+now we're just coming out of coid we've got a lot of remote work going on and for the first time in human history
+there's a Technology Innovation that's going to benefit individual workers sure
+Technology's taken a lot of The Drudge work out of the work that our workers do every day but the people who typically
+profit from that are management or the Enterprises themselves but with generative AI with remote work we have
+the ability to LIT individuals profit from Innovations and
+Technology free up time become better at what they do maybe even spend a little
+bit more time with their families they can realize the value and that's a really unique opportunity for us generative AI
+has the ability to help us write better it has the ability to to help us uh engage with our customers more
+intimately it has the ability to make us more
+AI has the ability to make us more charismatic
+charismatic by 20 this this this prediction comes to comes to us from our my dear friends Rita Salam and Whit
+Andrews by 2026 AI will make us seem better than we are that 30% of workers
+will leverage digital Charisma filters to achieve previously unattainable advances in their
+careers what's a Charisma filter you've been on Instagram
+right all right well that was super funny in my head because I don't think anybody on Instagram or Tik Tok is anything other than filtered and it's
+not just like Blurry images of pretty people dancing in front of cute dogs that's not what we're talking about we're talking about the ability to
+increase your presence in the spoken word increase your presence in the written word increase your presence in
+your organization virtually we're talking about well let me ask
+you I think I'm a pretty charismatic dude in my native
+English would I get the same response though if this stage were in Japan and
+you all were listening to me translated through a translator no I don't think so but with
+Charisma filters that can become true we're already seeing Tech technology from organizations like Nvidia which
+will adjust your eyelines you're always looking right down the barrel of the camera that will skinny you up or make
+you look a little bit prettier by way of research I went and got one of those cameras that'll you know make us look a
+lot skinnier and make us look a lot more attractive um it was unable to make any significant difference in my appearance
+which I'm going to go probably suggest that I'm probably just a little bit beyond any kind of real hope here I
+don't know but digital Charisma filter are going to help us and our organizations achieve new sort of
+personal Heights it will help us achieve new levels of personal
+performance it's also going to become an indicator of national
+performance what do I mean by that well let me ask you another question do you think lonstein could ever rise to
+challenge China China's great superpower has been
+people there's 1.4 some odd billion Chinese and they have been amazing at
+leveraging Talent over the past 60 or 70 years this is genuinely been their National superpower as Talent well with
+AI as long as you have enough gpus and electricity you have the ability to make
+unlimited amounts of talent unlimited amounts of talent and I don't know if that's going to be true for lonstein but
+it could certainly become true for my home state of Texas we could take all that place we tend to
+keep all of our cows just covered up in solar panels and gpus and suddenly we've got an unlimited Talent base that we can
+use and I believe small states like Australia or what have you will be able to rise and become AI superpowers this
+particular prediction comes to us from Julian sun and Sana secular by 2027 productivity value of AI will be
+recognized as a primary indicator of National Power we already use a we already use
+indicators of productivity GDP individual productivity organizational productivity as a source of Power by
+making it a national Benchmark by making it something that we report on as Nations this will cause greater
+investment it will speed this transformation into a world where we all
+Prosper prediction number three by 2027 25% of Fortune 500
+Neurodiversity and cognitive diversity are superpowers
+companies will actively recruit neurodiverse Talent across conditions like autism ADHD dyslexia to improve
+business performance quick question if anybody out there can anybody tell based on
+these pictures here who's neurodiverse no no that's kind of part
+of the issue by the way just as an aside I think every picture in this deck except for one was generated by
+generative AI your challenge is to go home and figure out which ones but no you can't tell who's
+neurodiverse just by looking at them and I think this is an important part of the
+point is that really neurodiversity and cognitive diversity are superpowers for
+organizations when you have cognitively diverse people they see problems in different ways they see opportunities in
+different ways and they will create different ways to engage with each other to engage with customers to engage with citizens to engage with fellow employees
+to unlock new sources of value and to kind of put a little bit of
+a a Capstone on this point and speaking is somebody who's pretty profoundly neurode Divergent myself and when
+referring to myself I prefer the term neurode Divergent I don't know maybe it was because I was a punk rocker and that sounds kind of Hardcore or whatever but
+as somebody who is very much neurod Divergent themselves I just wanted to say that I know that the whole idea of
+Dei has become somehow contentious perhaps in the political sphere nothing I'm saying here today is about the
+political sphere I don't want to make this contentious what I really want to leave you with about Dei is this that it
+is not about giving some group of people special privileges it's not about shifting privilege
+around it's about creating an environment where we can all take our
+masks off and be our authentic selves at work and the value that that is going to
+unlock is tremendous we know that there's certain forms of ADHD that just
+turn out great surgeons we know that there's certain kinds of autism that enable people to become incredibly
+detail oriented those folks become great software control testers if you heard Admiral mcraven
+talk about being a leader being a a significant part of being a leader is leveraging and maximizing the value of
+the talent that you have and when we allow everyone to take those masks off and just be who they are we unlock that
+for everyone it is liberating and freeing for
+everyone Story number two the businesses will get better at overcoming their
+worst traits as I was just saying about neurodiversity we're not going to focus on turning out Cy cookie cutter you know
+employees anymore with blue suits and red ties we're going to overcome those traits and generative AI is going to
+help us do that prediction number
+Monthly electronic electricity rationing
+four by 20126 half of G2 members will experience
+monthly electronic electricity rationing turning energy or wear operations into
+either a competitive advantage or a major failure
+risk when I first heard the word rationing in this predict my brain kind
+of exploded I mean when I think about rationing right I'm thinking like World War II you can only have so much sugar
+you can only bake one cake a month like that's what I think when I think rationing but I live in
+Texas where we had a heat bubble over the state for three months and rolling
+blackouts I have friends that live in Europe who have experienced electricity
+disruption as a result of the Russian invasion of
+Ukraine this is real this is real and the real opportunity
+here is that we begin to think about as Leaders
+the energy consumption inside of our organization as another resource why are
+Walmart and Target among the largest owners of solar panels in the world
+because when electricity generation cost becomes something that you actually measure on the balance sheet optimizing
+that is a way to make money to improve profitability to improve the bottom
+line and I want to say that generative AI is not going to be
+free the amount of energy that it took to train chat GTP is just about a
+gigawatt which is about the amount of electricity that a thousand us households use in a day the amount of
+energy that Research indicates they don't publish this information but research researchers into this have have
+discovered or believe that chat GTP alone consumes
+33,000 households of electricity a
+day this is not going to be free it is not going to be
+free but we're talking about a value change here and a values change here and
+I think that's something that's really important because when I think about the opportunity that generative AI presents
+to us particularly in this realm is the ability to really change the value
+equation we' have got to stop believing in the idea or the fallacy of unlimited
+growth on a planet of finite resources that's not being political that's
+nonsensical the opportunity is in your hands because you are going to be the major consumers of electricity inside
+your organization you're going going to be some of the people who have to manage that risk for your
+Enterprise and I've never seen an obstacle that I can't manage to turn
+into an opportunity so when we think about that is also an opportunity to win against competitors who haven't invested
+who don't have the same ethos who haven't thought about these problems now I'm GNA ask you another
+question if you had a genie and a
+lamp I can make one wish what would that be
+for I'm not expecting you all to yell it out in unison but if I had to guess if I
+could guess what I think you all are wishing for it would be an end to technical debt
+End to technical debt
+right just get rid of it an end to technical debt oh my God especially in
+in in in in in civilizations in in in societies that digitize early right I
+talked to many of you you feel like you're suffocating under the weight of the technical debt you're buried under
+it now generative AI is not gonna make the technical debt problem go
+away but it's going to act as a Rosetta Stone it's going to become a translator
+it's going to give us the ability to extract the business logic it's going to give us the ability to extract the
+knowledge from these systems
+so that we can repurpose them so we can create new capabilities it's going to
+help us increase and and modernize our applications
+faster it's going to recruit it's going to reduce the replacement cost of these Technologies and if we do it really well
+it will do as a colleague of mine said in Australia just a few weeks ago it'll prevent us from creating the next
+generation of Legacy systems it'll free us from that
+trap generative AI can become the Rosetta Stone I remember when I was CTO
+of a bank we are we were replacing our mortgage origination system the three developers who managed our previous
+mortgage origination system which was written in some ancient language called primac which I don't even know what that
+is they all quit as soon as they knew that we were going to do this and they came back the next day is contractors
+doubling their salaries that's a real threat
+that's a real thing that happens and with generative AI we're going to have the ability to extract that business
+knowledge we're going to have the ability to extract that information and make it far more
+portable it may also help us avoid vendor lock
+in what I want us to think about here again is is is is that generative
+AI used in the right way is going to help us create create better
+understanding but just as I said back with the predicts right it's not going to become the output right it's not
+going to recode all of this for us because we are still Bound by one very basic phenomena of
+computing garbage in garbage out it's not going to be the answers
+that chat GP that that chat GTP or Bard or or or or or or or or co-pilot give us
+that are going to become the value what we really need to be focusing on instead is the value of the inputs getting
+really good at understanding how to give the right kinds of prompts how to give the right kinds of information to these
+systems and extracting all of the value from what we' built
+already prediction number six comes to us from Dwight kapich by 2028 there will be more smart robots than Frontline
+Robots over Frontline workers
+workers in manufacturing retail and Logistics not to replace
+people just stood fill labor shortages one of the other phenomena
+that happened as a result of Co is people started taking gigs they started working for themselves based on digital
+platform enablement and as a consequence there are a lot of jobs that are just not being filled by humans anymore and
+can't be filled by humans if you look at at countries like Japan who are on the verge of demographic collapse they are
+not making enough new babies their population is inverted the triangle is in
+inverted the only solution they're going to have to that particular problem is
+robots and I don't think that 2028 is too far out to start imagining that
+robots might start outnumbering Us in the workforce I don't know if you've been to a grocery store lately but it's kind of hard to find a checkout clerk
+right it's all self checkout now it's robots everywhere whether it's my Roomba cleaning my floors or the new pool robot
+I got that's got a camera that scans for you know Plankton or whatever it's not Plankton it's
+a you know what I mean these robots are not just going to
+be about replacing workers it's going to be about augmenting us helping an aging Workforce it's going to become a major
+factor in GDP and that's not just in highly Advanced Supply chains right this
+is everywhere across our ecosystem we need to think just like what the the opening keynote said yesterday we need
+to start thinking about generative AI as a new user interface whether that interface is at a
+terminal that I'm talking to or whether that interface is in a robot that's making my coffee for me it's going to
+become a new user interface and with this new user
+interface that also begins to speak to the need to begin to build better machine to machine interfaces prediction
+number seven comes from my dear friends Mark Resino and Don shyen R who you heard from yet who you heard from
+Machine Customer Market
+yesterday that through 2026 30% of large companies will have dedicated business unit or sales channels to access fast
+growing machine customer markets what's a machine
+customer well I don't know I got a printer at
+home that'll automatically reorder ink for me is that a machine customer oh kinda kind of it will
+reorder the ink for me do I ever L it reordering for me no no no I do not no I do not because it
+will always order it about 6 months before I need it it will always order it
+from the odm and it will always charge me retail plus Plus+ for the convenience of
+automatically doing that that is not what we're talking about when we talk about a full machine customer we are talk you know if this was a full machine
+customer it would be out scouring to try and find the best deals for me on Inc it
+would understand my usage patterns and know that you know I really only print come event season because I like to
+print out my things so that I can read them backstage before I come out here and talk to you all but the rest of the year I don't print anything ever it
+would understand those consumption behaviors and that's not just going to be in B2B channels it's not just going
+to be in advanced Supply Chains It's going to be in B Toc too we already see those little you
+know you could buy this from someplace else kind of ads that pop up in some browser add-ins
+I ask you another question does anybody here suffer from like massive gear acquisition syndrome there are no golfers in the
+room come on I suffer from massive gear acquisition syndrome I really do it's
+for me it's not golf it's synthesizers it's drum machines I have got a drum machine addiction and we are not too far
+from the future where I can just sort of send a bot out there and say hey man when you find an LM drum for this price
+go ahead and get it if you find one for 20% less than that get
+two just don't tell my wife I swear to God anytime she sees a box like this shaped come into the house
+she's like that's a drum machine that's a synthesizer and she's probably not wrong
+but at least in this future I'll be able to point to the bottom be able to say Hey listen the machine got me the best value I could ever get on this thing
+honey she'll still be rolling her eyes at the back of her head but at least we'll know that we got a good deal on it
+right we need to get good at starting to understand and we need to start thinking about what a machine to machine customer
+model looks like do we know how to Market to machines do we know how to advertise do we know how to advertise
+our capabilities do we know what kind of slas or operational level agreements machines are going to want to agree to
+with each other do we have answers to those questions no but we need to start building them or
+else we're going to miss out on one of the fastest growing channels in the world the human Channel only grows at
+about 4% a year the machine channel is going to grow at a factor of that times 10 possibly even
+more possibly even more the third part of our story is that
+new threats create new responsibilities and new communities prediction number eight comes to us from my brother from
+Mal Information
+another mother Dave Aaron and myself that Mal information is going to become a multi front Threat by 2028 Enterprise
+spend on battling Mal information will surpass 30 billion cannibalizing 10% of markets and cyber security budgets to
+combat a multi-front threat what is malformation malformation is
+algorithmically groomed and targeted disinformation or even the
+truth which is out of context and designed to change mental models what do
+we mean by changing mental models that is causing you to make decisions that you would not make if you had the
+correct fact Base today Mal information is already a78 billion threat and that's
+just peop to people Mal information that's just dealing with activists and and other Mal information and
+disinformation that exists out there if you want to know the the ball that I had my eye on it's AI based Mal information
+it's it's Mal information that is designed to do prompt spiking that is not prompt injection that is causing
+your AI to have a hallucination or causing it to ingest data that causes it to hallucinate
+spiking The Prompt and that has the potential to grow to enormous
+sums it will also create new opportunities for our sios by 2027 45% of sizo remits will
+expand Beyond cyber security due to increasing regulatory pressure and attack surface expansion this comes to
+us from my dear friend Andrew walls today you guys have been great at
+digitizing you guys have been amazing at creating the digital future and for the past 13 or 14 years I've been in CIO or
+CEO research I moved to Scio research about 18 months ago because all of the amazing digital transformation
+opportunities that I have talked about from this very stage don't become real if we don't get the cyber right and
+today every business process is bounded by cyber it's limited by cyber even the
+most manual thing you could do getting an oil change in your car you can't do it if the work order system doesn't
+print the work ticket if if they can't collect the credit card on the other end and oh by the way if they can't tell my car which is a network of supercomputers
+Rolling On Wheels that it has had an oil change none of that process works if the
+Cyber doesn't work in addition we have the SEC which has said recently that
+there must be an officer in charge in the Enterprise of cyber
+security as a consequence we see the role of the sizo evolving into one into
+full holistic broadspectrum digital business defense to include cyber
+security to include privacy to include even possibly physical
+security prediction number 10 unions of people will form to Combat
+Unions
+Machines we've seen the writer strike in Hollywood we've seen the actors strike in Hollywood we know that our employees
+are feeling the pressure they're feeling uncertain they're feeling concerned about their future and generative Ai and
+what that means to them this prediction comes from my teammate nater Heinen Helen pumin and uh and
+Helen and really I think what we're seeing here is a reaction to that that
+we're experiencing anxiety around layoffs we've seen lying flat we've seen
+quiet quitting and yeah sure maybe the tech layoffs you know shook stuff up so we got people back to the office a little bit more often we maybe improved
+productivity with a little bit of fear uncertainty and doubt but that's not going to be the
+answer that's not going to be the answer I think the answer lays again in
+what the opening keynote talked about it it it lays in everyday AI it it lay in
+allowing your employees to bring the a to work allowing them to experiment with it allowing them to reap the value that
+they get from AI in the terms of time savings and the ability to do better or more interesting
+things and in closing here I just wanted to say one thing to you bringing us all
+the way back to the beginning I don't think the year that everything changed
+is hyperbole in fact I want to double down on that and I wanted to say that I'm imploring you to take the decisions
+that you make today and into the future about generative AI very very seriously
+because we we are literally the last generation of managers who will get to
+make those decisions we are making decisions about buying acquiring and building
+decision-making machines and after those decisions are made that will become a one-way
+door which will become very very difficult to reverse after we made those
+decisions so do we decide that our strategy is simply to continue to allow you know wealth to aggregate or do we
+decide to empower employees Empower our cens and Empower our co-workers with
+this amazing new technology and if we make the right decision folks the future's
+ours thank you

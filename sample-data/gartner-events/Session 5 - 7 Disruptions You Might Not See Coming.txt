@@ -1,0 +1,350 @@
+[Music] have you ever had to do a presentation
+and you remember that rule that anytime anyone does a demo something's going to go wrong I forgot my
+clicker I already have an excuse I'll be right [Applause]
+back oh wow for anyone who's wondering we did that on purpose so if anybody
+asks it was planned you know it it is weird cuz I talk about disruption a lot and I'm
+going to talk to you about seven disruptions here today um but it's kind of like when the unexpected happens you
+either have a WTF moment or you roll with the punches and you know just flow
+through it um but most people aren't ready for that most people When A disruption happens they get thrown off
+their game it's sort of like having that dream we probably all had where you go to school and you have to do a report in
+front of the class and you realize you're naked have you had that dream I love
+that dream it's great but you still have to
+decide what you're going to do about it right run out and get clothes on I hope but here we're going to talk a bit about
+disruption now are seven disruptions you might not see coming ones that are probably closer than you think they are
+or that might have a bigger impact than you realize so we'll go through those
+and this whole process of creating these these lists is a product of something that we call the Gartner Futures lab I'm
+one of the co-leads for the Gartner Futures lab and we specialize in looking around corners to see what's coming next
+so you can set your strategy in advance you don't have to be surprised you can
+be ready to roll with whatever happens and that is what we're going to try to do a little bit here today we frame the
+question as a what if what if disruption struck strikes and you don't notice
+remember just like you know something going wrong on stage or waking up naked in class it's a WTF moment I'm thinking
+which technology first not what you guys might be thinking but the reality is that you have to figure out where you're
+going to go and disruption is not just change keep in mind moving a desk AC a
+cup of coffee across your desk from one side to the other is a change but it's not necessar A disruption it might be
+disruptive if you spilled the cup of coffee but we are looking for disruptions that cause a fundamental
+shift in the system that you're working in the system of behavior of Technology
+of whatever it causes a fundamental shift and guess what it doesn't go back to the way it was before unless it's
+disrupted Again by something else so it's not a fad I always ask this
+question I want to see where you guys are now be brave does any body here still playing Pokemon
+go a few oh my goodness I I want to talk to you people
+afterwards I have more stuff to sell you the reality is that most of us got
+into Pokémon go and out of Pokémon go very quickly it was a fad it was a big deal happened fast went big and then it
+went away fast fast but disruptions come they can get big and they stay for a long period of time so that's what we're
+trying to get at disruptions like that and we use this scale the digital disruption scale to measure the
+intensity of disruption just like the intensity of an earthquake you know an earthquake is has a certain level of
+intensity and it's a logarithmic scale as it goes up showing you that it's gets worse and worse and worse wherever it is
+so we give you a little history lesson here in that the right hand side of this curve is showing you historical
+disruptions that have happened at least 30 years ago that you can compare to what's happening now so you get an idea
+of what it is Lee McMullen reminded me one is missing on here is the Industrial Revolution and uh the specifically the
+the production assembly line of cars so Henry Ford was one of the biggest change
+agents in the history of the world and these are things that you can look at and say well wait a minute if this
+disruption is about the same place I could expect the same level of change so here are the seven disruptions that I'm
+going to talk about here today they are scattered around they're scattered in terms of intensity I won't go in this
+order from bottom to top but they're scattered in terms of intensity and there's a seventh seven disruptions on
+here plus one more can you guess what the plus one is generative AI now if
+you're not sick of hearing that phrase by now something must be wrong with you you
+know this is the year everything changed nothing matters anymore if you're not talking about generative AI well that's
+not true but the reality is that we have to take into account generative AI in everything we do because it's a powerful
+transformative technology today and over the next 5 years it could reach
+revolutionary scale which is hard to do few things ever meets meet that that
+that bar of revolutionizing the world most of them are down at the bottom
+enhancing markets where you add some new feature to a market put a cataly converter on a car that's enhancing a
+market you might extend the market by adding new you new capabilities you might add hybrid cars to your Fleet you
+might transform the market go to full electric cards or reinvent the market and start thinking about shared riding
+instead of ownership of cars but revolutionizing the world would mean we're all flying around with jetpacks we
+were promised jetpacks when I was a kid why don't we have them yet I'm upset about this because they promised
+floating cities underwater bubble cities and jetpacks those were three things that I wanted I got none of them instead
+I got Twitter now X oh well we have these things that rise
+up the scale and we're going to talk about where these things are now and where they will be now disruption as I said Is Fundamental shift and
+fundamental change not just fat so let's talk for a moment about generative Ai
+and then we'll leave it behind until it comes back generative AI is different
+from all other previous Innovations we've ever seen and yes I did say all all other
+Innovations the reason why is because it is something that for the first time in human existence could change the nature
+of what it means to be human now that sounds like hyperbole hyperbole it may
+be it's philosophical absolutely because I'm not worried about whether it's going to replace human beings what I'm worried
+about is what it will do to us right now that we are not prepared for I'm worried about how it changes our ability uh to
+to produce products and services and be competitive in our own markets if we can't figure that out
+we're in real trouble people tell me all the time businesses want to know about generative AI but the use cases are
+still not understood the risks are still not understood that's why you need to be
+talking to us that's why you're here and that's why our conference is about AI because if you don't figure that out
+quickly you're going to be in a bit of trouble so generative AI can set goals
+it can find follow those goals and if figure out how to solve for those goals without you telling it what to do it is
+different in terms of costs it's very expensive to run it's different in terms of learning it can learn as it goes and
+it is difference in terms of scale across everything we do and the scope of everything we do so it's different than
+anything else that's come along but there are other things that we should think about and we'll talk about them
+I'll bring generative AI back into the conversation but let's move into some of the others so the first disruption what
+if geomagnetic storms knocked out your internet access how often do you think about geomagnetic storms or coronal mass
+emissions I don't want to say that phrase again it sounds naughty but the notion of solar flares
+is something that we should be thinking about because if in fact geomagnetic
+storms were to interrupts your internet access it probably means we as a species are in trouble and the reason we say
+that is because solar flares can cause all sorts of other disruptions secondary
+disruptions it's like a rock falling into a lake there's a big splash the splash goes away quickly but the ripples
+radiate across the entire Lake they last a long time they might change the shoreline they might swamp a boat they
+might swamp your house so the idea of geomagnetic storms starts with solar
+flares but it doesn't end there so we ask that question because we're saying all right
+what could it do well in 1989 Hydro Quebec in Canada anyone here live in
+Canada any Canadians in the audience no Canadians there's Americans but no
+Canadians there that's weird but in Canada they had this hit and it shut down Hydro Quebec for quite a period of
+time it affected some us Northern cities as well um and these kind of solar
+flares can have this effect now people will say well how big can it get well the biggest solar flare that we can
+identify from looking at Tree Trunks and analyzing um you know their their growth
+patterns and so forth and looking at carbon dating was about 14,300 years ago
+and it was massive if if we had had that happen now it would have knocked out some2 trillion doll worth of
+infrastructure which might not have come back online for months if not years and you might ask this question
+the doubter might say well if it's such a big disruption how come we haven't seen seen one since 1989 we have in 2012 one of the NASA Sun
+orbiting satellites was was hit by a large solar flare the Earth was not in line with it but a satellite was in
+1967 we had a solar flare hit that actually took out a lot of the
+electrical grid and in in 1859 we had a large solar flare that
+actually made telegraphs explode and the paper burst into flames so we're talking
+about something that's interesting and the reason why it's a big deal we're overdue for another
+one it takes a lot for one to hit the Earth but we haven't had one in a long time that big so we're overdue so a
+thousand times more powerful than what hit Quebec may be on the way because solar flares are on the rise the next
+peak of solar flare activity 20125 now this may not happen to us for
+another hundred years but if it happens all all those low earth orbit satellites
+will be destroyed and that will take down your internet connection and we know that's the only thing that really matters be
+besides generative AI is internet and our phones and I see you guys walking around the hallways like
+this if you can't do that you will be upset the world will be upended that is
+disruption that is what we're talking about our Communications networks our way ways of interacting with one another
+gone in a heartbeat so where is it in 2020 3 enhancing markets we're talking
+about hardening systems we're talking about the ability to increase the meantime between failure systems and the
+impact of electrical discharge in the atmosphere because literally a large solar flare will cause you to see Sparks
+emanated from one person to another and we are talking about having systems that are better able to survive that right
+now it's very very fragile 2028 it could be transforming or Reinventing markets
+because we have to find new ways to deliver technology that isn't vulnerable to it I mean if you want to work into
+something like Quantum Computing Quantum Computing is vulnerable if someone you know coughs too loud you know if we have
+solar flares it's really in trouble we got to find a better way to do Computing so what's disrupted system hardening
+what's disrupted meantime to failure those two things are big deal but also the physical location of these systems
+the communications networks that we have and how much we use them what do you do about it you should first ask yourself
+how how much at risk are we to a solar flare do we have a list of things that we should be worrying about working on
+you know or are we just going to deal with generative AI well no we can't because generative AI will be brought
+down by it to it and I always say you know the safest world that we could have is one without people on it and now one
+without AI on it but then the roaches will mutate in a million years and there'll be a problem anyway but we are
+the reason for all this to happen and we have to be prepared so there's one ruption the second one Aid driven driven
+Legacy modernization now I hate to tell you this because I don't want you to get up and rush out of the room and try to get there but there's a presentation
+going on right now about Aid driven modernization uh and if you could get
+that topic looked that you'll find that we're saying that generative AI finally
+meets Legacy systems and we're able to finally get out of some of the Trap that we've been in the reality is AI can
+minimize Legacy code and minim the creation of new Legacy systems that
+should be a goal of everyone here because Legacy is expensive but it's also critical it's running some of the
+most important systems in the world and we really need to be able to modernize them without disruption so what does
+that mean it means that code conversion just in time writing of code is not the
+most critical thing it means AI can describe the the code that you have it can tell you code that doesn't have
+documentation anymore Cobalt programmers are retiring they don't remember what they did you don't have them to to order
+to do it again and they didn't document it very well so now it can look at the code and explain the system and tell you
+what's happening and describe the dependencies in your system because that's more important than just changing
+the syntax or the code that the system's running with it is also about explaining
+the application what is it supposed to do versus what it's designed to do and making that that's something we've
+always had a problem with we we think we build an that does what users tell us but then we find out users are not good
+at telling us what they want we're not good at listening to them we go back to our cubicle and build something that when we give it to them they say what is
+this it's not what I asked for but the reality is generative AI can make it closer to what they asked for by helping
+to explain the application then we get into that refactoring how should this be refactored what modules need to be where
+what should move first prioritization we get into what kind of a user experience it should have and generative AI helps
+with all of the these things so it gets us there just a bit faster when we think about this this is already starting to
+extend markets we're now seeing products introduced into the market your Google's vertex a AI your Microsoft co-pilot your
+Amazon AWS Bedrock these are the kinds of Technologies along with GitHub
+copilot and open Ai and anthropic and all the others that are coming along to make it easier for
+developers to modernize their applications and when that happens the
+legacy is less of a burden on us all by 2028 could be transforming or Reinventing markets again because we
+might actually change the way we do development or maybe we stop doing development all together you can ask
+yourself when you prompt a chat GPT is that development is that an app I would
+say in many ways I could argue yes it is because I can tell it to pretend it's a developer to write code that will do I
+saw a guy build the video game pong you remember that game with the paddles and the ball bouncing back and forth he
+reproduced that using chat gbt in 60
+seconds okay not 60 Minutes not 60 days not 60 weeks 60 seconds because he wrote
+a mega prompt that described exactly what the game did Chad GPT then gave him the code he compiled it ran it and he
+had the game so the Paradigm is going to shift it might transform how we think about development and what we develop
+now I'm talking about pong here guys I'm not talking about your ER P system I'm not talking about your banking
+transactional system I am talking about relatively simple ideas today but they won't stay simple and we have to be
+prepared for that so the opportunity cost of Legacy code goes down we can get
+rid of it faster we don't have to expend so much on it the developer productivity goes through the roof we're going to get
+more for Less okay and that can help us do many things that we've put off doing
+for a long time what do you do about it well H and retain retain Cod code philosophers not just data scientists or
+developers people who have a philosophy about how AI understands what we're asking for
+about writing the prompts such that you communicate your intent in the best way hire your prompt Engineers develop a
+prompt management discipline and you will be better off than before number three regulated AI if you
+work for a regulated industry or you are a government regulator you know what this is all
+about you know that we have to limit the evolution of AI if we don't limit the evolution of AI we're going to get into
+so much trouble and we don't even have to think about whether it replaces human beings or we all merge with machines
+that's all fun beer time conversation but we do have to worry about what the
+laws are to protect our IP what the laws are about who has rights to a creative
+situation if I were to make a painting that looked exactly like a Leonardo da Vinci painting
+he's not around to argue about who owns it anymore but if someone did that to your IP and your behavior and your
+patterns you are so we have to have regulation that tells us what to do in those circumstances and we're saying
+regulated AI will disrupt many things it will slow down the adoption pace of AI to some degree it will speed up the
+regulator's ability to keep up because Regulators always lag behind technology that's just a fact of life but now those
+Regulators are going to have combinatorial effect on markets because those regulations will be able to be
+created envisioned by AI created by Ai and vetted by AI I talked to a wonderful
+gentleman yesterday who was working with a a patent office and he was worried about people submitting more patents
+than they can actually review because generative AI can generate these patent you know applications very quickly and I
+and he said what do we do about that I said you use generative AI to actually review the patents so your best weapon
+against generative AI is is generative Ai and you have to be prepared to do that within the regulations of a given
+company and you have to understand why it does what it does so it needs to be explainable it needs to be responsible
+and it needs to be ethical bias needs to be reduced and we need to even re even
+recognize when bias is happening so you need regulated AI you need us to tell
+you what to do in certain circumstances or you have no protections liability will become a problem
+as we look at this thing again they start at the bottom they rise up over time enhancing markets because we're now
+just thinking about what regulated AI means and what AI will do to help with
+regulation but Tech providers will go to market based on what they're allowed to do and what they're not allowed to do
+markets will converge based on whether the regulations cross multiple
+domains and we'll have a situation for trying to drisk AI um because we can can
+point to the regulations and say that's why we're not upgrading that system or that's why we did it the way we did and
+the CIO has to look at this thing and start thinking okay the impact of regulated AI on us is going to have a
+certain certain effect where will regulation come in first probably in financing Financial Services probably in
+regulating what we can use it on regulating what data could be actually trained into a language model we have to
+start looking at that and we have to explore which markets are related to one another and the regulation that controls them so
+regulated AI is a good thing yes it's a good thing I'm convinced now it's a good thing and we have to be prepared for it
+or it will be prepared for us number four the Golden Age of silver workers
+that's a wonderful to say way to say old people I can say that I'm I'm a silver
+worker well not silver all the time but the reality is that we tend to devalue
+the resource that is Elder workers you know
+they they have a retirement age they don't they don't do as much we need new
+mindsets and mentalities they're not as skilled they're afraid of computers you know all those guys and
+just retire go to the beach reality is we're giving away one of the best assets we have and
+generative AI can actually start a golden a for silver workers it's not a
+disadvantage it's not a restriction we should be taking advantage of it so what we're saying
+here is that the disruption is what if older workers became more productive than younger ones well actually that's
+true in many circumstances Older Workers are already more productive but longer into their life cycle retirement age
+goes up the work week goes down those workers don't have to come to the office they stay at home and work they use
+General generative AI to be productive and to understand all new capabilities
+that they need to learn we actually believe that certain college degrees
+will no longer be necessary to get certain jobs because you can hire uneducated people and give them an AI
+assistant and they'll be up to speed on that work faster than ever before now I
+have a son in college and I'm about to have a dollar daughter in college that's not good news to me because it's not going to happen before I spend a lot of
+money might be wasted money but the reality is that we have a need for these workers we
+have a need for getting them in the workforce faster and making them valuable and there's a tech crunch right
+now a talent crunch where we can't find enough workers so let's keep the ones we have for a longer period of time let
+them have fun besides if we don't they'll go on vacation and we'll be
+jealous let's keep them working so that they're as miserable as we are
+the thing is that these workers are very powerful if we use them right so their value is greater they're able to
+challenge Us by keeping us focused on things that a wider range of perspectives actually care about so
+where are we 2023 enhancing markets as usual 2028 only extending markets
+because mostly we're not going to change mostly we're still going to see Elder workers as a disadvantage that's because
+that's the way we think you know it's true come on when people get old you know I mean come my kids once told me
+you know Dad you know um you're changing as you get older you
+don't understand anything about the world you got to remember something I was one of the original team members of cloud computing and my daughter comes
+home from school one day and says Hey Dad we studied cloud computing in school and I said oh really what did you talk
+about she said oh you wouldn't know about that I said' do you know who you were
+talking to at the moment do you know who I am and she said no who are you
+I I said look me up on the web
+so the reality is that she's looking at me and she's go D she comes in she says Dad you are so
+old I said what I'm not too old it's just your music
+sucks we have that conversation a lot but the the reality is that by 2028 we start getting into this world where
+we're beginning to extend markets to accommodate older workers workers changing our processes and our
+organizational structures to accommodate what's disrupted talent management more workers in the workforce means more
+Talent available retirement age may go down the work week may go down retirement age goes up work week goes
+down and we may get augmented workers with technology embedded in the brain
+where the AI talks to you and tell you what to do go to the Gartner
+conference buy more service yeah that kind of thing right we all love that so
+this is a world where we'll take advantage of using those people effectively the takeaway here is to orient compensation over a longer life
+cycle of work right so spread it out because you're going to have to take care of these people a lot longer than you might
+have thought and also we're going to have to start thinking about part-time work models experiment with what that
+means when some people work a longer period some people work shorter hours some people are going to do the things
+we do now so older workers very powerful if we want them now let's jump to the business
+because we believe that laggards in Industry conservative companies we use that word laggards we were very worried
+about this you know when Janelle Hill and Mark Carol came to me with this um they you know they were they were saying
+we don't want to say laggards because it'll make companies think we're insulting them we don't mean to insult you if you are a lagered dinosaur
+monolithic company we're not trying to insult you we're just trying to say that you actually have an opportunity to jump
+ahead because startups are on sale startups for sale startups for sale
+massive discounts here why it's because we see that boards are getting greater
+tolerance for risk and willing to exp spend money on things that they wouldn't
+have spent it on and startups at the same time are having a hard time finding
+Capital to get their next round of funding it's getting harder and harder to do it Coffey Bruce at the CFO of
+General Mills said we may be able to leverage the money that we have which startups can't
+get and maybe some of those startups on sale will buy it's a tequis a tech startup bought to bring in a whole new
+base of business and if we do that we may be able to LeapFrog some of the leaders in our industry and get there
+before we would have otherwise so it's a good thing we've been conservative with our money now the
+startups are cheap let's go and buy them up and let's jump over the others in the industry so that means that we have to
+start thinking okay where are the depressed valuations we can leverage you know where are investors less willing to
+fund and so we have an opportunity to go and start talking to those startups to find out what technology and knowledge
+they put on the plate that will make us better and so if we're well capitalized we can do moonshots we can do that one
+big bet that if it lands will make us the star and that's where these
+conservative companies now really leverage the strength of their ability to survive the strength of their ability
+to grow to turn it into something bigger than it ever was before where we are on
+this we're still looking at enhancing markets okay in 20220 by 2028 extending
+and perhaps transforming markets the reason why this doesn't move very fast or far is because conservative companies
+are conservative they don't like to move that fast they get scared very quickly
+they're like governments in that regard you know if you do anything that means that you're putting risk on the plate so
+we try not to do anything I used to work in government so I know it doesn't work but the reality is they'll get easier
+path by acquiring people who already do it well this is why it doesn't move fast but if
+it does move the PE the pool of available startups is going to go down over time so get in early and when you
+look at this stuff you're going to see Innovation being balanced between those startups and the existing companies out
+there that's a good thing we live in a tech world if you're not a tech innovator you are falling
+behind and the startup Acquisitions can make it happen for you your rout to path
+your your Market to uh your roote to market for startups is going to change you wouldn't be just looking to investors to give you your funding um
+from the um the trip typical investment Avenues you'll look to these companies that may have a lot of cash but not
+enough knowledge of what to do with it and so what you're going to do aggressively evaluate which tech companies are interesting to you start
+looking at them as an asset to be mined and you're also going to look to the be the sponsor of it if you are a CIO or
+working in Tech you should be the sponsor of these Tech positions because if it works you get a raise either that
+or you get given responsibility for making it work which really could be hard but it's something you would want to do to get an advantage and lastly you
+want to acquire Acquisitions to differentiate your digital Foundation to make you a stronger digital company and
+let you transform to digital in a way you hav't you know 80 to 90% of our customers are not doing digital
+transformation they're doing digital optimization well if you can get to transformation you could make a big deal
+big fast and good number six there only seven the pace of
+engineering Innovation is going through the roof but there's a lot of pain involved
+in it here's what I mean this it's not an accident it was a
+test the expectation was that failure would happen that catastrophic failure would happen but when you do that you
+learn why it happened what needs to be changed and you can fix it faster it's
+not an accident it's an expected outcome and companies like SpaceX and Tesla you
+know are pushing the envelope on this kind of approach to say we're going to run through the failures even
+catastrophic ones faster to get to the successful models and then put them in
+the marketplace they're even starting to avoid patents because they say if anyone steals our IP and copies what we did
+they still don't have the culture to keep up with with us we'll go beyond that before they can even Leverage What
+they've got so they keep pushing faster and they've done it you know over time
+SpaceX has increased its pace of delivery for space Vehicles dramatically
+since 2002 and they keep getting faster and doing bigger things with it they
+reduced the payload costs dramatically over time those payloads cost has come
+down by multiple orders of magnitude and still coming down faster and faster I
+remember back in the day when NASA was the only one that we trusted to put things into space you know and
+now NASA seems kind of funny because they're depending on others SpaceX and
+others to actually deliver those payloads so if Engineers are taking more risks if Engineers are willing to take
+failure if Engineers are willing to try things that might have been thought to be absurd at one point they'll get there
+faster we'll innovate faster and that could be a ma massive transformation we're seeing it now you know by the way
+how many people here own a a Tesla anybody got how many of you own an electric vehicle of any
+kind I love you guys because that's a good thing for the world well we hope
+but the the notion is you're taking advantage of this kind of innovation now how many of you want to go on a
+spaceship to space oh my goodness that's a lot I always said you know as soon as they got
+commercial space FR Avail available I'll be the second one in line to go right behind one of
+you we're ready to try new things and our businesses need to be ready so the engineering discipline and bureaucracy
+is going away Innovation pace is going up we might even get lightweight portable nuclear reactors out of this
+holding a nuclear reactor that's safe in the palm of your hand that's actually on the table right now the Innovation pace
+is going through the roof so you have to to start thinking about empowering rapid development with Fusion teams of
+Business and Technology people coming together doing virtual and physical projects in in both spaces at the same
+time and you have to shrink the time between run test and run you can't just
+keep developing you have to actually watch the failures and keep moving forward and this leads to our last one
+which is an interesting notion the space race is starting again and geopolitical competition is going to leave the planet
+again if you think back or you read your history books to back when the Space Race started in the 50s it was a power
+struggle between the Soviet Union and United States and the first to get to space got all the influence the first to
+get to the moon got all the influence it's starting again because now generative AI is improving the resource
+identification to say a company a country that might not have been important in space technology becomes
+important because they have resources that are necessary for space technology either labor or minerals or some kind of
+fuel um a necessary fuel component that can make a company more powerful the
+lower payload costs that I mentioned before are leading to a new space race for satellites do you know how busy it
+is up there with satellites if they all fell down right now I don't think any of us would avoid being hit cuz there's
+just so many up there it costs less than $300,000 us to put a cube set into orbit
+today you could lose that in your it budget and not even know what
+happened right I'm coming to visit next week I want to launch a satellite the reality is that we are making it easier
+to put these things up and so we are building our ability to be powerful
+because space technology is an economic Boon it gets us better and this race
+will likely accelerate and these new resources and territories who's going to put their flag on a moon base that we
+have permanently in place I live in Atlanta Georgia right home of the the Center for Disease Control um which was
+Central to one of the biggest disruptions we've seen the pandemic uh the home of Chick-fil-A where they sell
+really good chicken sandwiches fried chicken and the home of Coca-Cola do not drink a Pepsi
+product in Atlanta Coca-Cola has a pro has a plan
+to put the Coca-Cola logo on the face of the moon so that every time you look up
+have a Coke and a smile if they get it done I have fear for the
+rest of the world but the notion is that new territories can be claimed because of space technology and in 2023 it's
+just building momentum by 2028 it will be Reinventing everything because the space technology Quantum Computing will
+go to space server Farms will go to space all these new processes to create new drugs and new techniques will be in
+space and yes you will be riding the space Captain Kirk did it you can do
+it all right now we just have to have the will to get it done so it's going to
+have a ripple effect across all industries that are out there we're going to have this re this Supply race
+to get the the right resources and we need to establish a transfer discipline of Technology from the space programs to
+our day-to-day businesses if we can do that it's going to be great so seven disruptions here's where they are today
+in 2023 here's where we expect them in 2028 the first time that we've had some
+reach the revolutionize in the the 10 years that we've done this presentation and really you have to become something
+important you have to become the EV the Evangelist for self disrup disruption
+disrupt yourself before someone else does it to you why because evangelism
+draws crowds crowds can be inspired inspiration leads to belief belief
+connotes faith and with faith we can work miracles thank you very much for
+listening and enjoyed the [Music]
+day

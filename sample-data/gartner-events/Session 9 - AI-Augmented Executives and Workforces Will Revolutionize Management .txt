@@ -1,0 +1,661 @@
+5 years now I don't necessarily believe
+that's true but it what it goes to show
+is the extent to which all of us tend to
+really believe that AI is going to
+disrupt and transform how our
+organizations operate how we do business
+how we ourselves
+work but there is one thing that's
+likely not to
+change Talent being a critical challenge
+for any executive
+leader I like like to
+joke that any marketing collateral or
+research note that cites how important
+Talent is for a CEO when you update it
+all you have to do is pick a number
+between 1 to five and change the year
+and you'll likely be right because
+Talent is the challenge cited in the top
+five for years and years and years and
+we think it will be as we go
+forward but as we look look at talent
+and the challenge it's going to bring
+for executive leaders for CEOs for
+ourselves going
+forward we're facing a great degree of
+uncertainty a great degree of change in
+many other areas not just
+AI our best answer to all of this is
+autonomy giving people more autonomy
+giving teams more autonomy giving
+machines more
+autonomy
+and you may Wonder can technology really
+lead to Greater autonomy how I work
+doesn't it actually just control the way
+I do things restrain me more give me
+less choice or is it giving me more
+autonomy to do
+more and this is a big part of our next
+wave of Technology enabled business
+value innovation autonomous business you
+may have heard us talk about autonomous
+business in other sessions or in other
+research that we have published this
+next wave where our feet are firmly
+planted in the first steps of this AI
+enabled
+transformation going Beyond and building
+on what we learned in EB business and in
+digital business
+transformation in this AI powered
+Automation and autonomous business we
+talk about machine customers being in
+the
+center and what we're focusing on today
+is around augmented leader and
+Executives change themselves and the
+professions and how they work by how the
+organization is operating all of these
+pieces really coming together in
+autonomous business another way to look
+at this is that we have applied AI as
+the foundation for yet another wave of
+business transformation that's going to
+impact and augment our workers and our
+leaders management and the organization
+overall
+I want to talk a little bit though about
+what it means to move from automation to
+augmentation and autonomy especially
+when we talk about the machine side of
+the equation so what the tools are
+doing we tend to turn back to automation
+because that's what we know we want
+predictability we want consistency we
+want tools that enable things to do
+things as
+expected but aiming towards augmentation
+and autonomy with all the Investments
+we're making in everyday Ai and
+gamechanging AI to come where we're
+facing complexity in the decisions to be
+made using AI to support better
+information retrieval keeping human in
+the loop but it's probability driven and
+when you get to autonomy within machines
+there's complexity and continuous
+learning so that it can also address the
+unexpected so that these capabilities
+are context and probability and
+observation driven and even goal
+oriented that's what we talk about when
+we say how machines go from automation
+into augmentation and autonomy and when
+we bring that on the human side and on
+the machine side we get transformation
+for individual professionals and leaders
+for management decision-making and for
+Enterprise
+productivity so I said said that Talent
+is your consistent challenge we're going
+to go into each of these areas and talk
+about the key challenges how we're using
+AI to address them and how that's going
+to then change how we manage things how
+we ourselves work as executive
+leaders so for individual professional
+and leaders the promise of AI is to
+reduce the time it takes to get up to
+speed reduce time to competency or
+reduce time to
+proficiency I got to participate to was
+part of a Maverick project it's a part
+of our research where we get to test new
+ideas and this was back in 2018 we are
+writing how AI is going to make us
+Dumber unless we teach it to teach us
+back it's taking away all the simple
+drudgery kind of tasks where we learn
+kind of how things work in a lowrisk
+environment and we leap into the high
+complexity tasks and need to be able to
+respond effectively in these more comp
+complex areas things that we are seeing
+as the talent challenge faced in say
+back office of insurance claims
+processing Financial Services or in the
+customer contact center around increased
+work complexity and labor cost because
+AI is taken away so many of those small
+tasks and as new tasks
+arrive they have to be able to get up to
+speed quickly and address these things
+that happen less frequently and are more
+complex so you turn to AI to help
+them so we turn to AI essentially to be
+able to address this Talent challenge
+decrease the time to competency and
+increase people's sense of Mastery
+competence and impact to the work they
+do confidence that when they take on
+those more complex tasks they're able to
+do it well and and prove themselves as
+an individual
+professional and we already see this
+emerging with the augmented connected
+Workforce if you didn't see our top
+strategic Tech Trend session we do speak
+about it there and write about the
+augmented connected Workforce where you
+have the individual in their digital and
+physical work context they have
+decisions they need to make and we are
+orchestrating all of the technology but
+also all of the support from Knowledge
+from how roles are designed and from all
+of the skills development capabilities
+we put in place to support people to
+take on that more complex work despite
+not having gone through the more simple
+tasks an example from MC where they were
+using augmented reality to do this
+working with teams in their smart
+manufacturing facilities to drive that
+time to competency and that's what they
+achieved two weeks time saving for
+training and time to
+proficiency so this is today's work that
+organizations are already embarking upon
+as they invest in AI for workers granted
+in more routine work but we can see this
+extending with emerging capabilities
+that we're starting to experiment with
+that we want to be implementing in the
+next few years that are part of the next
+wave of everyday AI things like
+augments augments where we enable people
+in the organization to get these or even
+build their own own micro apps that are
+highly contextual and provide assistance
+and a performance boost think of a
+marketing team member or a sales team
+member prepare preparing correspondents
+and needing a reminder of what the
+updated information about the product is
+or needing an update on certain language
+that has changed and that augment coming
+in and giving advice in context for that
+person provide um putting together that
+new correspondence that is one example
+of augment in that context there could
+be so many more changing how people get
+the skills and the knowledge to do their
+work or the virtual coach where we're
+giving this for the manager the team
+leader who needs to prepare really
+really tough
+conversations how do you prepare really
+tough feedback conversations with team
+members today do you maybe by yourself
+muttering to yourself uh as you're
+taking a walk to kind of think think
+through how you want to address the
+tough conversation maybe you have an HR
+partner who says I'll sit down with you
+and we can practice but what if you had
+a tool that you could practice where it
+would respond back in a predictable way
+that probably the person who's not very
+happy about receiving the feedback would
+respond and you can kind of react to
+that and practice with a more realistic
+set of
+responses emerging sets of technologies
+that are coming into the market today
+are they perfect of course not but are
+the Investments there and is there
+actually products being sold
+yes so wait for more support to managers
+in terms of those
+conversations so when we think about
+going towards greater degree of
+augmentation but also autonomy for
+individual professionals and leaders the
+talent challenge that existing Talent
+challenge we already had and that's
+going to continue on and on and on is
+that complexity of work and high
+performance expectations I've had those
+conversations this week where when they
+introduce
+AI it mostly means people need to work
+faster the expectation is they can
+deliver things so much more quickly if
+they're getting support to generate
+content or something like that the goal
+is to improve individual performance
+through autonomy Mastery and competency
+you're trying to drive down time to
+competency through the invest in Ai and
+other types of Technologies like the
+augmented connected Workforce
+Technologies microw app augments or a
+virtual coach conversational simulation
+all of this will change how your leaders
+how you think about your own skills
+development Your Leader skills
+development others capability
+development performance Etc that's where
+that transformation comes in based on
+what we've already started similar with
+decision- making which is a second
+element where AI comes in and that
+promise of AI is better just in time
+decisions increased speed in decision
+making and of course off offloading that
+cognitive
+load I would guess that everybody in
+this room has heard this message many
+many times over many years this promise
+that would come I know I started my
+career at business objects decades ago I
+won't say how
+many but I still remember the ad make
+everybody a CEO of their organization
+because they get data and decision
+support and we know what kind of
+Technology we had in place
+with desktop business objects reports to
+support people so This Promise has been
+longstanding what's changing is the
+complexity most people feel that their
+decisions are more and more complex I
+would get as many of you feel the
+decisions you have to make on a
+day-to-day basis are more complex
+because too many people are involved
+because there's unclear decision
+Authority there's an inability to
+collaborate across SOS or disagreement
+on
+objectives and maybe for yourself if
+you're if you're managing directly a
+team or the people you manage who
+directly manage
+teams they're facing those same
+complexity goal conflict how much is
+projects and how much is people
+management most of them feeling that
+they're overburdened high degree of
+stress and
+fatigue one almost one and two or
+actually one in two employees are
+confident that their managers are able
+to lead their teams
+forward decision making and autonomy in
+decision- making so what you're trying
+to address here is decrease that sense
+of information overload that sense of
+not feeling confident in where you're
+going and what you're doing and
+increased decision autonomy and
+confidence your tools are different than
+desktop desky of old business objects of
+those who might remember those
+tools and the techniques but the
+techniques remain somewhat similar we go
+from focusing on workflows to focusing
+on decisions you may be familiar with
+some of our research around decision
+intelligence one highly simplified way
+of it thinking about it is that design
+for the decision instead of Designing
+for a task or a
+workflow simple example every single one
+of you probably have to complete a
+compliance training every year and you
+get the email reminder saying you have
+to complete a compliance
+training and then you get the reminder
+and you have to remember if You'
+actually completed it or not if you
+think about it the only decision you
+have to make it's not if you're doing it
+it's when but none of the tools tools
+actually support you in deciding when am
+I going to do my compliance training so
+it's orienting instead of giving you a
+list of tasks orienting to the decision
+to be made and how to enable it and
+there are so many tools from these very
+simple decisions to much more complex
+ones that can be used to really support
+and enable greater decision- making
+including newer ones that are emerging
+like composite AI platforms greater
+natural language platforms Etc but the
+foundation is designing for decision
+rather than task or
+workflow and that happens everywhere
+even in the board if you think about
+board level decision- making there's a
+lot of routine decisions and information
+that needs to be evaluated and needs to
+be gone through how much of that could
+be supported through some degree of
+automation or giving more autonomy in
+reviewing some of those insights and
+that in information
+so as we use decision intelligence to
+increase the autonomy of people to
+support decisions in all types of
+context with varying degree of
+automation or just augmentation or a
+basic support like an alert we change
+how people make
+decisions and we can see that going
+further with emerging capabilities that
+we're starting to invest in that we're
+starting to look
+into like the idea of a
+cobot so t somebody who works in
+recruiting a recruiter they have many
+different tasks that they do on any
+given day they work across many systems
+but there are large there're often a
+large pool of recruiting especially if
+you're in a recruiting firm or if you
+have a large enough team that you have
+some corporate
+recruiters you can imagine with the
+capabilities that are emerging today
+that it would be interesting to start to
+build rolep specific
+cobots I will say say I see this mostly
+in research oriented conversations
+rather than live products but it's easy
+to extrapolate to a cobot that's helping
+somebody navigate the Myriad tasks that
+they need to do recognize the context
+what it is they need to focus on and
+provide hopefully useful support it's
+bringing clippy to life but in a
+completely new way and hopefully much
+better and useful way so we don't just
+push it away every time
+working across
+applications another space that we can
+imagine is the
+maximizer maximizers can be very very
+useful because within a given context
+they're able to detect what the optimum
+would be right here right
+now and I know this very well because I
+live with maximizer it's my
+husband my husband likes to detect and
+understand what is the optimum way to
+use our new solar panels that we had
+implemented this year and I've come to
+learn that depending on the day how much
+sun there is how many things need to get
+done it's going to be a different order
+for running the dishwasher or cooking or
+laundry or what have you because the
+optimum changes on any given day I can't
+myself just say oh there's a rule we
+always do it in this order it's this
+time this thing no the optimum changes
+every time because that's how his brain
+works that's how his mind works he's
+going to say the optimum today based on
+all of these different criteria and
+which one's going to be given more
+importance because of our context that's
+what's going to make the decision that
+we're going to best achieve our
+goal and we can see more Investments
+especially in agent-based AI where
+you're trying to build that capability
+out to be able to detect the optimum in
+a given context and apply
+it so you're replicating decision
+patterns you're setting a goal but that
+goal can change slightly or the criteria
+can SL change slightly depending on the
+context you're using things like
+simulations and scenarios to do so
+imagine having that at work when you're
+facing all of those really really tough
+decisions I have it at
+home sometimes I would like that at work
+as well helping think through all those
+options so in this space your talent
+challenge is that complexity of
+decision-making and the complexity of
+people management and
+Leadership your goal is to improve
+leadership Edge through structured
+autonomy you don't want people going
+every which way you need some direction
+you need some guidance but you want
+better decision making and people
+management you want people to feel more
+confident and so you can t happen to
+decision intelligence capabilities and
+emerging things like cobots or tools
+that can act as Ma
+maximizers and so as we step forward
+into these new capabilities and look
+forward into these new capabilities
+that'll emerge that we may invest in is
+game-changing capabilities in our
+organizations just think about how it's
+changing decision Authority and speed
+and even expectations of how fast you
+can realistically take a
+decision that brings us to our third
+area
+productivity productivity is the promise
+of this wave of hype around AI so many
+headlines so many studies promoting
+great productivity improvements through
+the use of generative AI through the
+starting investments in new capabilities
+that have
+emerged we will publish very soon a case
+study showing that sometimes these
+statements are a little bit overstated a
+team of developers only really gain 70
+minutes a week in productivity by using
+some of the newer capabilities so they
+can be overstated but even if they are
+we're going to need to be able to prove
+it out we're going to have CEOs and
+Boards saying where's the productivity
+when we've made such a big investment in
+these capabilities that are promising it
+and the vendors that are promising
+it one challenge that you will all face
+as you look at what productivity is
+realistic in the deployment all this
+technology I'm going to be investing in
+in the years to come to keep pace
+through everyday Ai and maybe try to
+change the game a
+bit is that we'll be measuring
+productivity in the old-fashioned way
+how many widgets do people complete in a
+given set of time especially when we're
+thinking about worker and employee
+productivity but when you're aiming for
+autonomy you
+can't use automation rules for measuring
+productivity so when you aim for
+autonomy you actually need to be
+thinking about productivity at the
+individual level the team level and the
+Enterprise level and be thinking about
+all of that source of friction that can
+impede productivity digital friction
+certainly but also work friction and
+organizational level friction how do you
+detect that and remove
+it so in this Talent challenge or
+organization challenge we're trying to
+remove and decrease the level of
+frustration and friction about the work
+that we're doing and increase that sense
+of organizational Effectiveness and if
+we can't get a me better measure for
+productivity at least perception of
+productivity we already have some tools
+to
+detect and then people to act usually to
+remove friction it could be things like
+work style analytics digital experience
+monitoring that detects and can
+automatically remove friction but
+digital twins of an organization that
+looks at the flow of work and operations
+and how the organization is self is
+working to be able to identify areas of
+improvement and improve and remove
+friction and we could think of it at the
+employee level with a digital twin of an
+employee which we spoke about earlier
+this
+week an emerging capability and way of
+thinking about
+this will be generative Ai and extending
+planning and Analysis and I'm hesitating
+here because there can be a gap between
+the promise of generative AI to help
+detect and and show where there can be
+conflict between all of these different
+plans which actually makes the
+organization operate less effectively
+this is friction through how you set
+goals and budgets and
+plans those of you who are deep into the
+technical pieces know that generative AI
+does not work very well with tabular
+data and planning is tabular data but
+there are startups already looking at
+how they can use tabular data as
+input and then the Transformer models to
+generate text as output to help support
+analysis and evaluation and detection or
+proposing different ways of looking at
+how these different plans can intersect
+or
+conflict there you're removing
+organizational friction so it's not just
+for individuals it's again at that
+Enterprise level and think about
+emerging autonomous Logistics where
+you're tapping into generative AI
+capabilities things like Enterprise
+nervous systems where you're looking at
+capabilities and technology that can be
+adaptable that can detect when something
+is gone wrong in this in the um chain uh
+the supply chain or the chain of
+activities that needs to happen in that
+logistical chain and detect and be that
+maximizer that I spoke about detecting
+the optimum in that particular context
+to be able to best achieve the end goal
+of delivery on time of the most number
+of things and so that goal oriented
+optimization gets in place and could
+automatically generate
+planning is this readily available off
+the shelf today no is it being worked on
+by
+organizations and those who are
+innovating heavily and investing heavily
+in generative Ai and broader AI
+capabilities
+yes so that's why we say as we face this
+ongoing Talent challenge of friction
+hindering effectiveness of friction
+being the cause of lack of productivity
+or problems with
+productivity we aim to use AI in its
+many forms to improve productivity and
+remove that unwanted fiction we move
+from automation orientation thinking
+about how to increase the number of
+things that somebody can produce in a
+given time that's not autonomy we focus
+on removing friction and enabling
+autonomy and that could be to things
+like generative AI for planning once
+that really emerges a digital twin of an
+organization or simulation capabilities
+or things that you start to build
+because you know your operations and how
+these techniques could really help drive
+better
+effectiveness
+from a management perspective I know
+this is more abstract and you might have
+been thinking just about the person as a
+leader but that leader is managing
+operations and as their operations
+transform and things are done more
+autonomously in different parts of their
+operations so do their responsibilities
+and what they need to be watching
+over so as you aim tomorrow to increase
+autonomy through AI based on your
+existing investment in Ai and your AI
+investment plans you're going to be
+aiming for getting tomorrow's skills
+more quickly by driving down time to
+competency at the individual level
+whether they be individual workers in
+the contact center or the executive in
+the sea
+Suite you're going to be focused on
+improving management decision making
+increasing autonomy so that people and
+things can adapt to the unexpected ed
+through better and more effective and
+distributed
+decisions and on the productivity front
+you're going to move from thinking about
+automation a number of widgets per time
+to removing friction and enabling
+autonomy of individuals and teams and
+removing friction at the organization
+level so that that input to Output ratio
+that we talk about in productivity can
+improve and you can go to the board and
+the CEO and say yes our AI Investments
+are helping us from a productivity
+perspective so as you implement AI as
+you focus on autonomy to address these
+challenges that never go away that will
+continue to stay but we continue to look
+for new tools and new capabilities to
+address them you will actually find that
+your own role and responsibilities are
+also
+transformed so I invite you as you take
+this long week away and the additional
+sessions maybe you attend through today
+talking about AI thinking about AI what
+does it mean for us in our organizations
+what does it mean from a productivity
+angle what does it mean for me myself as
+an executive leader focus on
+autonomy for your people focus on
+autonomy for your machines and you will
+be part of changing the game in your
+organizations
+thank
+[Applause]
+you come on let's be free and
